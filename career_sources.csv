@@ -1,0 +1,169 @@
+﻿group,name,status,reason,url,sample
+Bank: central/state,Bangladesh Bank,manual,robots_disallowed,,
+Bank: central/state,Sonali Bank,manual,empty,,
+Bank: central/state,Janata Bank,manual,no Bangladesh-specific job page confirmed,https://www.jb.com.bd/home/declared_rate,
+Bank: central/state,Agrani Bank,ready,"page readable, no post recognised now",https://www.agranibank.org/index.php/home/career,
+Bank: central/state,Rupali Bank,manual,ok,https://www.rupalibank.com.bd/notice_jquery.php?type=20,ADMIN. & HR DIVISION; ENGINEERING DIVISION; FOREIGN TRADE FINANCE & INTERNATIONAL DIVISION; INTERNAL AUDIT COMPLIANCE DIVISION
+Bank: central/state,BASIC Bank,ready,job posts visible,https://basicbankplc.com/en/careers,BASIC Bank AI Assistant; BASIC Bank AI; Ask BASIC AI ✨
+Bank: central/state,Bangladesh Development Bank,manual,cert_error,,
+Bank: central/state,Sammilito Islami Bank,manual,dns_error,,
+Bank: central/state,Bangladesh Krishi Bank,manual,server_error,,
+Bank: central/state,Rajshahi Krishi Unnayan Bank,manual,cert_error,,
+Bank: central/state,Probashi Kallyan Bank,manual,cert_error,,
+Bank: private,AB Bank,ready,job posts visible,https://career.abbl.com/,Join AB Bank as HR - Contract Employee (HCE)
+Bank: private,Bangladesh Commerce Bank,ready,job posts visible,https://www.bcblbd.com/career,Probationary Officer (PO)-2025; Notice for Rescheduled Viva Voce – Probationary Officer–2025; Managing Director & Chief Executive Officer (C
+Bank: private,Bank Asia,ready,job posts visible,https://www.bankasia-bd.com/about/career,Executive Committee; Sustainable Finance; Deposit Accounts; SME Finance
+Bank: private,Bengal Commercial Bank,manual,bot_check,,
+Bank: private,BRAC Bank,manual,bot_check,https://www.bracbank.com/en/career,
+Bank: private,Citizens Bank,ready,"page readable, no post recognised now",https://www.citizensbankbd.com/news-events/citizens-bank-plc-organizes-orientation-program-for-newly-recruited-officers,
+Bank: private,City Bank,manual,bot_check,,
+Bank: private,Community Bank,ready,job posts visible,https://www.communitybankbd.com/career/,Executive Committee; Accounts; Trade Finance; Working Capital Finance
+Bank: private,Dhaka Bank,manual,not_found,,
+Bank: private,Dutch-Bangla Bank,manual,empty,https://app.dutchbanglabank.com/Online_Job/,
+Bank: private,Eastern Bank,ready,job posts visible,https://ebl.bdjobs.com/Default.asp,Internship; BRAC Micro Credit Securitization Data
+Bank: private,IFIC Bank,ready,job posts visible,https://ificbank.com.bd/career,Executive Committee; Human Resource (HR)
+Bank: private,Jamuna Bank,manual,timeout,https://jamunabankbd.com/careers/,
+Bank: private,Meghna Bank,manual,timeout,https://career.meghnabank.com.bd/,
+Bank: private,Mercantile Bank,ready,job posts visible,https://www.mblbd.com/home/mblcareer,1. Position: Head of Internal Audit (HoIA); Executive Committee
+Bank: private,Midland Bank,ready,job posts visible,https://www.midlandbankbd.net/career/,HR Vision; Long-term prospects and stability in a solid international group.
+Bank: private,Modhumoti Bank,manual,timeout,https://www.modhumotibankplc.com/career/,
+Bank: private,Mutual Trust Bank,manual,bot_check,,
+Bank: private,National Bank,manual,cert_error,,
+Bank: private,NCC Bank,ready,job posts visible,https://www.nccbank.com.bd/Career,- Executive; Structured Finance; MTO List
+Bank: private,NRB Bank,manual,bot_check,,
+Bank: private,NRBC Bank,manual,bot_check,,
+Bank: private,ONE Bank,ready,"page readable, no post recognised now",https://career.onebank.com.bd/career/,
+Bank: private,Padma Bank,manual,bot_check,,
+Bank: private,Prime Bank,ready,job posts visible,https://www.primebank.com.bd/career,HR Vision; HR Message to the Ambitious; HR Principles
+Bank: private,Pubali Bank,manual,blocked,,
+Bank: private,SBAC Bank,manual,robots_disallowed,,
+Bank: private,Shimanto Bank,ready,job posts visible,https://www.shimantobank.com/career,No data available in table
+Bank: private,Southeast Bank,manual,conn_error,https://recruitment.southeastbank.com.bd/,
+Bank: private,Premier Bank,manual,bot_check,https://thepremierbankplc.com/career/,
+Bank: private,Trust Bank,ready,job posts visible,https://www.tblbd.com/trust-bank-careers/,AI Assistant -Coming Soon; Ship International Hospital; Star Tech & Engineering Ltd; Executive Machines Limited
+Bank: private,UCB,manual,not_found,https://www.ucb.com.bd/career,
+Bank: private,Uttara Bank,ready,job posts visible,https://www.uttarabank-bd.com/career,Executive Committee; Lease Finance; Trade Finance; House Finance for Freedom Fighters
+Bank: private,Al-Arafah Islami Bank,manual,bot_check,,
+Bank: private,ICB Islamic Bank,manual,soft_404,,
+Bank: private,Islami Bank Bangladesh,manual,bot_check,,
+Bank: private,Shahjalal Islami Bank,manual,not_found,https://sjiblbd.com/career/,
+Bank: private,Standard Bank,ready,job posts visible,https://www.standardbankbd.com/career,Accounts; General Corporate Finance; Foreign Trade Finance; Project Finance
+Bank: foreign,Standard Chartered,ready,job posts visible,https://jobs.standardchartered.com/search/?q=Bangladesh&skillsSearch=false,Google Tag Manager; Consent to cookies from provider GoogleTagManager
+Bank: foreign,HSBC Bangladesh,manual,no Bangladesh-specific job page confirmed,https://www.hsbc.com/careers,"Relationship Manager, HSBC Private Bank; Bridging the worlds of art and finance; Relationship Manager; Chen Chowers, Relationship Manager, P"
+Bank: foreign,Citibank Bangladesh,ready,"page readable, no post recognised now",https://jobs.citi.com/location/dhaka-division-jobs/287/1210997-1337179/3,
+Bank: foreign,State Bank of India BD,manual,no Bangladesh-specific job page confirmed,https://sbi.bank.in/web/careers,"Meghana U S Murthy, Manager; Nishi Rungta, Assistant Manager; Kavita Arya, Chief Manager"
+Bank: foreign,Woori Bank BD,manual,not_found,,
+Bank: foreign,Commercial Bank of Ceylon BD,manual,blocked,,
+Bank: foreign,Habib Bank BD,manual,no Bangladesh-specific job page confirmed,https://habibbank.com/careers/,Assistant Project Manager; Software Engineer – BI Specialist; QA Engineers (SDET); Data Warehouse Specialist
+Bank: foreign,National Bank of Pakistan,manual,no Bangladesh-specific job page confirmed,https://www.nbp.com.pk/careers/index.aspx,HR Intranet; of 1366 x 768 in Internet Explorer 6+
+Finance/NBFI,IDLC Finance,manual,bot_check,,
+Finance/NBFI,IPDC Finance,ready,job posts visible,https://ipdc.com/career,Assistant Manager; Management Trainee; Senior Executive
+Finance/NBFI,LankaBangla Finance,manual,blocked,,
+Finance/NBFI,DBH Finance,ready,job posts visible,https://dbhfinance.com/careers,Careers | DBH Finance PLC; Executives; বিনিয়োগের অ আ ক খ; Information Officer
+Finance/NBFI,Green Delta Insurance,manual,bot_check,,
+Finance/NBFI,MetLife Bangladesh,manual,no Bangladesh-specific job page confirmed,https://www.metlifecareers.com/en_US/ml/gb/,Senior Marketing Manager; Employee Benefits Customer Care Manager
+Fintech/Telecom,bKash,manual,blocked,,
+Fintech/Telecom,Nagad,manual,blocked,,
+Fintech/Telecom,Upay,manual,not_found,,
+Fintech/Telecom,SSLCOMMERZ,manual,not_found,,
+Fintech/Telecom,Grameenphone,ready,"page readable, no post recognised now",https://www.grameenphone.com/about/career,
+Fintech/Telecom,Robi Axiata,ready,job posts visible,https://www.robi.com.bd/en/corporate/career,Data Policy and Security Policy; AI Principles
+Fintech/Telecom,Banglalink,ready,job posts visible,https://www.banglalink.net/careers,International Women’s Day Celebration; Digitalyst Internship Program
+Fintech/Telecom,Teletalk,manual,cert_error,,
+Software/AI,Brain Station 23,ready,job posts visible,https://brainstation-23.easy.jobs/,"Project Manager – FinTech; Senior Growth Marketing Manager; Manager, Sales - Fintech; Sales Lead - International Business (Fintech)"
+Software/AI,Therap BD,manual,bot_check,https://therap.hire.trakstar.com/,
+Software/AI,Enosis Solutions,ready,"page readable, no post recognised now",https://careers.enosisbd.com/,
+Software/AI,SELISE,manual,no Bangladesh-specific job page confirmed,https://selisegroup.com/about-us/#jobs-main-container,Marketing; LogsDatabaseV2:V#||LogsRequestsStore; YtIdbMeta#databases; Engineering
+Software/AI,Cefalo,ready,job posts visible,https://career.cefalo.com/,Lead Software Engineer; Principal Software Engineer; International Training and Traveling; An international work environment
+Software/AI,BJIT,manual,bot_check,https://bjitgroup.com/career,
+Software/AI,Vivasoft,ready,job posts visible,https://vivasoftltd.com/career/,Top-tier Software Outsourcing Development Company; Revolutionary Software Culture; Senior SQA Engineer; Product Manager
+Software/AI,Kaz Software,manual,bot_check,,
+Software/AI,REVE Systems,ready,job posts visible,https://www.revesoft.com/career,Software Development; Marketing; Software Services; Finance & Accounts
+Software/AI,LeadSoft,manual,not_found,,
+Software/AI,Riseup Labs,ready,job posts visible,https://riseuplabs.com/jobs/,SQA Engineer (AI-Assisted Testing and Automation); AI-Assisted Testing; International Sales; International Business Development- Intern
+Software/AI,Dynamic Solution Innovators,ready,job posts visible,https://app.hrythmic.com/recruit/openings/company/dsinnovators/,Support Engineer; Full Stack Developer (TypeScript); Network Engineer
+Software/AI,Samsung R&D Bangladesh,ready,job posts visible,https://research.samsung.com/careers,Global AI Centers; srukr.hr@samsung.com; rnd.hr@samsung.com; scrc.hr@samsung.com
+Software/AI,Tiger IT,manual,not_found,,
+Software/AI,Southtech,manual,bot_check,,
+Software/AI,DataSoft,manual,bot_check,,
+Software/AI,Nascenia,ready,job posts visible,https://nascenia.com/careers/,Jr. Software Engineer; Sr. Software Engineer; Quality Analyst; Project Manager
+Software/AI,WellDev,manual,not_found,,
+Software/AI,Strativ,manual,no Bangladesh-specific job page confirmed,https://strativ.se/arbetsmetod,
+Software/AI,BitMascot,ready,"page readable, no post recognised now",https://www.bitmascot.com/careers/,
+Software/AI,Monstarlab Bangladesh,manual,bot_check,,
+Software/AI,Orbitax,manual,not_found,,
+Software/AI,Craftsmen,ready,job posts visible,https://careers.craftsmensoftware.com/,"Welcome to the home of software maestros! - Craftsmen; Marketing; Home of Software Maestros!; Powered by software craftsmen, like you?"
+Software/AI,ReliSource,manual,bot_check,https://www.relisource.com/careers/,
+Software/AI,Sazim,manual,not_found,,
+Software/AI,Pridesys,ready,job posts visible,https://pridesys.com/careers/,Software Engineer; Engineering Lead; Assistant Manager; Marketing & Sales (e-Gov)
+Software/AI,Apsis Solutions,ready,"page readable, no post recognised now",https://apsissolutions.com/career/,
+Software/AI,Streams Tech,ready,job posts visible,https://streamstech.com/careers,Data & Intelligence; AI/ML Services; Cloud & Engineering
+Software/AI,Divine IT,ready,job posts visible,https://www.divineit.net/about/careers/,HR & Payroll System; Data Center Design & Build; Software and Network; Software Technology Park
+Software/AI,TechnoNext,ready,job posts visible,https://technonext.com/career,Senior Business Analyst; Senior .NET Developers (OTA); Business Analyst; Chief Technology Officer
+Software/AI,ShellBeeHaken,ready,job posts visible,https://shellbeehaken.com/join-us,Software Engineering; Senior React Developer*; React Native Developer*; Sr. Full Stack Software Engineer*
+Software/AI,BRAC IT,ready,job posts visible,https://www.bracits.com/career/,Engineering; BI & Data Services; Java and Spring Boot Developer; Front-End Developer (Spring Boot)
+Software/AI,Ollyo,ready,job posts visible,https://ollyo.com/careers/,"{""post_id"":363,""collection_data_id"":""dpzwojhe""}; Senior Motion Designer (UI & Marketing)"
+Software/AI,weDevs,ready,"page readable, no post recognised now",https://www.wedevs.com/career/,
+Software/AI,Portonics,manual,bot_check,,
+Software/AI,SSL Wireless,ready,job posts visible,https://www.sslwireless.com/careers,Frontier AI; Head of Data; Executive/Senior Executive (Merchant Acquisition Specialist); Sales and Business Development Intern
+Software/AI,Augmedix,manual,not_found,,
+Software/AI,Intelligent Machines,manual,not_found,,
+Software/AI,Gigatech,manual,bot_check,https://gigatechltd.com/career/,
+Software/AI,Hishab,manual,conn_error,,
+Software/AI,Synesis IT,manual,no Bangladesh-specific job page confirmed,https://synesisitltd.com/national-job-portal/,AI/ML-Enhanced Recruitment; DevOps; Data Science and Analytics
+Software/AI,Exabyting,ready,job posts visible,https://exabyting.com/join-our-team/,Tech-Driven Finance Progress; Revolutionising Product Marketing; People-Centered Software Development; ; to work on engineering products you
+Software/AI,Bdtask,ready,job posts visible,https://www.bdtask.com/career.php,Software Sales & Marketing Executive; Senior Software Engineer (Python/Django); Junior Software Engineer (Python/Django); Sr. PHP Developer
+Software/AI,Xpeed Studio,ready,job posts visible,https://roxnor.com/career/,Junior Sales Executive; Do you recruit interns or freshers?
+Software/AI,Inflectionpoint,manual,dns_error,,
+Tech product/e-commerce,Pathao,ready,job posts visible,https://careers.pathao.com/,"Marketing; Assistant Manager, Creative; BI Analyst; Customer Experience Officer"
+Tech product/e-commerce,Chaldal,manual,timeout,https://chaldal.com/t/Career,
+Tech product/e-commerce,ShopUp,ready,job posts visible,https://www.shopup.org/career,Sr. Executive - Site Acquisition
+Tech product/e-commerce,Shohoz,manual,not_found,,
+Tech product/e-commerce,Sheba,manual,not_found,,
+Tech product/e-commerce,10 Minute School,manual,no Bangladesh-specific job page confirmed,https://10minuteschool.com/jobs-prep/,
+Tech product/e-commerce,Shikho,ready,job posts visible,https://shikho.freshteam.com/jobs,"Engineering; Marketing; Android Developer (Sr. Software Engineer); Software Engineer, Backend"
+Tech product/e-commerce,Daraz,ready,job posts visible,https://www.daraz.com.bd/careers,"Software; Junior Executive/Executive, Customer Service; Internship, Operations; Category Manager, Commercial"
+Tech product/e-commerce,foodpanda BD,manual,bot_check,,
+Tech product/e-commerce,Bongo,manual,empty,,
+Industry/FMCG,Unilever,ready,job posts visible,https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2,Management Trainee - Finance; Management Trainee - GTM; Management Trainee - Supply Chain; Finance
+Industry/FMCG,BAT Bangladesh,manual,blocked,,
+Industry/FMCG,Nestle Bangladesh,manual,blocked,,
+Industry/FMCG,Marico Bangladesh,ready,"page readable, no post recognised now",https://marico.com/bangladesh/careers/life-at-marico,
+Industry/FMCG,Reckitt,manual,no Bangladesh-specific job page confirmed,https://careers.reckitt.com/lp/CV%20and%20Interview/e34b45e2d7ebd009/?locale=en_GB,
+Industry/FMCG,Square Group,ready,job posts visible,https://squarepharma.com.bd/career_4.php,"Executive, Production; Associate Scientist (Analytical Research & Development); Junior Officer, Quality Control; Assistant Laboratory Analys"
+Industry/FMCG,Square Pharma,manual,conn_error,,
+Industry/FMCG,ACI,manual,timeout,,
+Industry/FMCG,Walton,manual,not_found,,
+Industry/FMCG,PRAN-RFL,manual,conn_error,,
+Industry/FMCG,Beximco,manual,not_found,,
+Industry/FMCG,Renata,ready,"page readable, no post recognised now",https://www.renata-ltd.com/career,
+Industry/FMCG,Incepta,manual,bot_check,,
+Industry/FMCG,Akij Venture,ready,"page readable, no post recognised now",https://akijresource.com/job-openings,
+Industry/FMCG,Bashundhara,manual,robots_disallowed,,
+Industry/FMCG,Meghna Group,manual,cert_error,,
+Industry/FMCG,City Group,manual,bot_check,https://citygroup.com.bd/career,
+Industry/FMCG,Partex Star,ready,job posts visible,https://partexstargroup.com/career/job-vacancies/,Key Executives; -- Key Executives; hr@psgbd.com
+Industry/FMCG,Transcom,manual,empty,https://www.transcombd.com/career,
+Industry/FMCG,BSRM,manual,bot_check,https://bsrm.com/career/,
+Industry/FMCG,Summit Group,manual,dns_error,,
+Industry/FMCG,Berger Paints,manual,bot_check,https://www.bergerbd.com/career/,
+Industry/FMCG,Apex Footwear,ready,job posts visible,https://www.apexfootwearltd.com/career,"Operation Manager; Officer, Internal Audit; Executive, International Business; Executive, Compensation & Benefit"
+Industry/FMCG,DBL Group,manual,bot_check,,
+Industry/FMCG,Epyllion,manual,bot_check,,
+Industry/FMCG,Mohammadi Group,manual,bot_check,,
+Industry/FMCG,MGI,manual,cert_error,,
+Industry/FMCG,Runner Group,ready,job posts visible,https://www.runnerbd.com/runner-group/career.php,Regional Sales Manager; 02. Job Title: Service Manager – 3 Wheeler; B.Sc in Mechanical Engineering / Diploma in Automobile Engineering.; Man
+Industry/FMCG,Nitol Niloy,manual,not_found,,
+Industry/FMCG,Kazi Farms,manual,not_found,,
+Industry/FMCG,BRAC,ready,job posts visible,https://careers.brac.net/,"Management Trainee Programme; Internship Programme; Kiva Coordinator, BRAC International Holdings BV; Senior Programme Manager, Health, Nutr"
+Industry/FMCG,Aarong,ready,job posts visible,https://www.aarong.com/bgd/careers,"Manager, Aarong Noakhali; Senior Manager, Aarong E-commerce"
+Industry/FMCG,Bata Bangladesh,ready,job posts visible,https://www.batabd.com/pages/careers,HR Related Queries:; bd.hr@bata.com
+Industry/FMCG,International Beverages,manual,dns_error,,
+Industry/FMCG,Pran Foods,manual,bot_check,,
+Audit/Consulting,Hoda Vasi,manual,no Bangladesh-specific job page confirmed,https://www.hodavasi.com/,International NGO; International Assignments; Understanding International Standards
+Audit/Consulting,Rahman Rahman Huq KPMG,manual,no Bangladesh-specific job page confirmed,https://kpmg.com/xx/en/careers/job-search.html,Apply for a role at KPMG International
+Audit/Consulting,A Qasem,manual,conn_error,,
+Audit/Consulting,LightCastle,manual,bot_check,https://lightcastlepartners.com/careers/,
+Job board,Bdjobs Hot Jobs,manual,blocked,https://hotjobs.bdjobs.com/,
+Job board,Teletalk All Jobs,ready,"page readable, no post recognised now",https://alljobs.teletalk.com.bd/,
+Job board,Skill Jobs,ready,job posts visible,https://skill.jobs/,Internship; Data Science; Supply Chain; Marketing

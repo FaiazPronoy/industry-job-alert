@@ -1,0 +1,1346 @@
+[
+ {
+  "group": "Bank: central/state",
+  "name": "Bangladesh Bank",
+  "status": "manual",
+  "reason": "robots_disallowed",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Sonali Bank",
+  "status": "manual",
+  "reason": "empty",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Janata Bank",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://www.jb.com.bd/home/declared_rate",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Agrani Bank",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://www.agranibank.org/index.php/home/career",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Rupali Bank",
+  "status": "manual",
+  "reason": "ok",
+  "url": "https://www.rupalibank.com.bd/notice_jquery.php?type=20",
+  "sample": "ADMIN. & HR DIVISION; ENGINEERING DIVISION; FOREIGN TRADE FINANCE & INTERNATIONAL DIVISION; INTERNAL AUDIT COMPLIANCE DIVISION"
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "BASIC Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://basicbankplc.com/en/careers",
+  "sample": "BASIC Bank AI Assistant; BASIC Bank AI; Ask BASIC AI ✨"
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Bangladesh Development Bank",
+  "status": "manual",
+  "reason": "cert_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Sammilito Islami Bank",
+  "status": "manual",
+  "reason": "dns_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Bangladesh Krishi Bank",
+  "status": "manual",
+  "reason": "server_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Rajshahi Krishi Unnayan Bank",
+  "status": "manual",
+  "reason": "cert_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: central/state",
+  "name": "Probashi Kallyan Bank",
+  "status": "manual",
+  "reason": "cert_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "AB Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://career.abbl.com/",
+  "sample": "Join AB Bank as HR - Contract Employee (HCE)"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Bangladesh Commerce Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.bcblbd.com/career",
+  "sample": "Probationary Officer (PO)-2025; Notice for Rescheduled Viva Voce – Probationary Officer–2025; Managing Director & Chief Executive Officer (C"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Bank Asia",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.bankasia-bd.com/about/career",
+  "sample": "Executive Committee; Sustainable Finance; Deposit Accounts; SME Finance"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Bengal Commercial Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "BRAC Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://www.bracbank.com/en/career",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Citizens Bank",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://www.citizensbankbd.com/news-events/citizens-bank-plc-organizes-orientation-program-for-newly-recruited-officers",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "City Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Community Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.communitybankbd.com/career/",
+  "sample": "Executive Committee; Accounts; Trade Finance; Working Capital Finance"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Dhaka Bank",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Dutch-Bangla Bank",
+  "status": "manual",
+  "reason": "empty",
+  "url": "https://app.dutchbanglabank.com/Online_Job/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Eastern Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://ebl.bdjobs.com/Default.asp",
+  "sample": "Internship; BRAC Micro Credit Securitization Data"
+ },
+ {
+  "group": "Bank: private",
+  "name": "IFIC Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://ificbank.com.bd/career",
+  "sample": "Executive Committee; Human Resource (HR)"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Jamuna Bank",
+  "status": "manual",
+  "reason": "timeout",
+  "url": "https://jamunabankbd.com/careers/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Meghna Bank",
+  "status": "manual",
+  "reason": "timeout",
+  "url": "https://career.meghnabank.com.bd/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Mercantile Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.mblbd.com/home/mblcareer",
+  "sample": "1. Position: Head of Internal Audit (HoIA); Executive Committee"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Midland Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.midlandbankbd.net/career/",
+  "sample": "HR Vision; Long-term prospects and stability in a solid international group."
+ },
+ {
+  "group": "Bank: private",
+  "name": "Modhumoti Bank",
+  "status": "manual",
+  "reason": "timeout",
+  "url": "https://www.modhumotibankplc.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Mutual Trust Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "National Bank",
+  "status": "manual",
+  "reason": "cert_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "NCC Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.nccbank.com.bd/Career",
+  "sample": "- Executive; Structured Finance; MTO List"
+ },
+ {
+  "group": "Bank: private",
+  "name": "NRB Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "NRBC Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "ONE Bank",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://career.onebank.com.bd/career/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Padma Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Prime Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.primebank.com.bd/career",
+  "sample": "HR Vision; HR Message to the Ambitious; HR Principles"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Pubali Bank",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "SBAC Bank",
+  "status": "manual",
+  "reason": "robots_disallowed",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Shimanto Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.shimantobank.com/career",
+  "sample": "No data available in table"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Southeast Bank",
+  "status": "manual",
+  "reason": "conn_error",
+  "url": "https://recruitment.southeastbank.com.bd/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Premier Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://thepremierbankplc.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Trust Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.tblbd.com/trust-bank-careers/",
+  "sample": "AI Assistant -Coming Soon; Ship International Hospital; Star Tech & Engineering Ltd; Executive Machines Limited"
+ },
+ {
+  "group": "Bank: private",
+  "name": "UCB",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "https://www.ucb.com.bd/career",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Uttara Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.uttarabank-bd.com/career",
+  "sample": "Executive Committee; Lease Finance; Trade Finance; House Finance for Freedom Fighters"
+ },
+ {
+  "group": "Bank: private",
+  "name": "Al-Arafah Islami Bank",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "ICB Islamic Bank",
+  "status": "manual",
+  "reason": "soft_404",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Islami Bank Bangladesh",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Shahjalal Islami Bank",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "https://sjiblbd.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Bank: private",
+  "name": "Standard Bank",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.standardbankbd.com/career",
+  "sample": "Accounts; General Corporate Finance; Foreign Trade Finance; Project Finance"
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "Standard Chartered",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://jobs.standardchartered.com/search/?q=Bangladesh&skillsSearch=false",
+  "sample": "Google Tag Manager; Consent to cookies from provider GoogleTagManager"
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "HSBC Bangladesh",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://www.hsbc.com/careers",
+  "sample": "Relationship Manager, HSBC Private Bank; Bridging the worlds of art and finance; Relationship Manager; Chen Chowers, Relationship Manager, P"
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "Citibank Bangladesh",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://jobs.citi.com/location/dhaka-division-jobs/287/1210997-1337179/3",
+  "sample": ""
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "State Bank of India BD",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://sbi.bank.in/web/careers",
+  "sample": "Meghana U S Murthy, Manager; Nishi Rungta, Assistant Manager; Kavita Arya, Chief Manager"
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "Woori Bank BD",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "Commercial Bank of Ceylon BD",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "Habib Bank BD",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://habibbank.com/careers/",
+  "sample": "Assistant Project Manager; Software Engineer – BI Specialist; QA Engineers (SDET); Data Warehouse Specialist"
+ },
+ {
+  "group": "Bank: foreign",
+  "name": "National Bank of Pakistan",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://www.nbp.com.pk/careers/index.aspx",
+  "sample": "HR Intranet; of 1366 x 768 in Internet Explorer 6+"
+ },
+ {
+  "group": "Finance/NBFI",
+  "name": "IDLC Finance",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Finance/NBFI",
+  "name": "IPDC Finance",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://ipdc.com/career",
+  "sample": "Assistant Manager; Management Trainee; Senior Executive"
+ },
+ {
+  "group": "Finance/NBFI",
+  "name": "LankaBangla Finance",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Finance/NBFI",
+  "name": "DBH Finance",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://dbhfinance.com/careers",
+  "sample": "Careers | DBH Finance PLC; Executives; বিনিয়োগের অ আ ক খ; Information Officer"
+ },
+ {
+  "group": "Finance/NBFI",
+  "name": "Green Delta Insurance",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Finance/NBFI",
+  "name": "MetLife Bangladesh",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://www.metlifecareers.com/en_US/ml/gb/",
+  "sample": "Senior Marketing Manager; Employee Benefits Customer Care Manager"
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "bKash",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "Nagad",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "Upay",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "SSLCOMMERZ",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "Grameenphone",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://www.grameenphone.com/about/career",
+  "sample": ""
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "Robi Axiata",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.robi.com.bd/en/corporate/career",
+  "sample": "Data Policy and Security Policy; AI Principles"
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "Banglalink",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.banglalink.net/careers",
+  "sample": "International Women’s Day Celebration; Digitalyst Internship Program"
+ },
+ {
+  "group": "Fintech/Telecom",
+  "name": "Teletalk",
+  "status": "manual",
+  "reason": "cert_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Brain Station 23",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://brainstation-23.easy.jobs/",
+  "sample": "Project Manager – FinTech; Senior Growth Marketing Manager; Manager, Sales - Fintech; Sales Lead - International Business (Fintech)"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Therap BD",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://therap.hire.trakstar.com/",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Enosis Solutions",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://careers.enosisbd.com/",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "SELISE",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://selisegroup.com/about-us/#jobs-main-container",
+  "sample": "Marketing; LogsDatabaseV2:V#||LogsRequestsStore; YtIdbMeta#databases; Engineering"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Cefalo",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://career.cefalo.com/",
+  "sample": "Lead Software Engineer; Principal Software Engineer; International Training and Traveling; An international work environment"
+ },
+ {
+  "group": "Software/AI",
+  "name": "BJIT",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://bjitgroup.com/career",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Vivasoft",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://vivasoftltd.com/career/",
+  "sample": "Top-tier Software Outsourcing Development Company; Revolutionary Software Culture; Senior SQA Engineer; Product Manager"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Kaz Software",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "REVE Systems",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.revesoft.com/career",
+  "sample": "Software Development; Marketing; Software Services; Finance & Accounts"
+ },
+ {
+  "group": "Software/AI",
+  "name": "LeadSoft",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Riseup Labs",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://riseuplabs.com/jobs/",
+  "sample": "SQA Engineer (AI-Assisted Testing and Automation); AI-Assisted Testing; International Sales; International Business Development- Intern"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Dynamic Solution Innovators",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://app.hrythmic.com/recruit/openings/company/dsinnovators/",
+  "sample": "Support Engineer; Full Stack Developer (TypeScript); Network Engineer"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Samsung R&D Bangladesh",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://research.samsung.com/careers",
+  "sample": "Global AI Centers; srukr.hr@samsung.com; rnd.hr@samsung.com; scrc.hr@samsung.com"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Tiger IT",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Southtech",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "DataSoft",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Nascenia",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://nascenia.com/careers/",
+  "sample": "Jr. Software Engineer; Sr. Software Engineer; Quality Analyst; Project Manager"
+ },
+ {
+  "group": "Software/AI",
+  "name": "WellDev",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Strativ",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://strativ.se/arbetsmetod",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "BitMascot",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://www.bitmascot.com/careers/",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Monstarlab Bangladesh",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Orbitax",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Craftsmen",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://careers.craftsmensoftware.com/",
+  "sample": "Welcome to the home of software maestros! - Craftsmen; Marketing; Home of Software Maestros!; Powered by software craftsmen, like you?"
+ },
+ {
+  "group": "Software/AI",
+  "name": "ReliSource",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://www.relisource.com/careers/",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Sazim",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Pridesys",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://pridesys.com/careers/",
+  "sample": "Software Engineer; Engineering Lead; Assistant Manager; Marketing & Sales (e-Gov)"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Apsis Solutions",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://apsissolutions.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Streams Tech",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://streamstech.com/careers",
+  "sample": "Data & Intelligence; AI/ML Services; Cloud & Engineering"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Divine IT",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.divineit.net/about/careers/",
+  "sample": "HR & Payroll System; Data Center Design & Build; Software and Network; Software Technology Park"
+ },
+ {
+  "group": "Software/AI",
+  "name": "TechnoNext",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://technonext.com/career",
+  "sample": "Senior Business Analyst; Senior .NET Developers (OTA); Business Analyst; Chief Technology Officer"
+ },
+ {
+  "group": "Software/AI",
+  "name": "ShellBeeHaken",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://shellbeehaken.com/join-us",
+  "sample": "Software Engineering; Senior React Developer*; React Native Developer*; Sr. Full Stack Software Engineer*"
+ },
+ {
+  "group": "Software/AI",
+  "name": "BRAC IT",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.bracits.com/career/",
+  "sample": "Engineering; BI & Data Services; Java and Spring Boot Developer; Front-End Developer (Spring Boot)"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Ollyo",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://ollyo.com/careers/",
+  "sample": "{\"post_id\":363,\"collection_data_id\":\"dpzwojhe\"}; Senior Motion Designer (UI & Marketing)"
+ },
+ {
+  "group": "Software/AI",
+  "name": "weDevs",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://www.wedevs.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Portonics",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "SSL Wireless",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.sslwireless.com/careers",
+  "sample": "Frontier AI; Head of Data; Executive/Senior Executive (Merchant Acquisition Specialist); Sales and Business Development Intern"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Augmedix",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Intelligent Machines",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Gigatech",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://gigatechltd.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Hishab",
+  "status": "manual",
+  "reason": "conn_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Software/AI",
+  "name": "Synesis IT",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://synesisitltd.com/national-job-portal/",
+  "sample": "AI/ML-Enhanced Recruitment; DevOps; Data Science and Analytics"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Exabyting",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://exabyting.com/join-our-team/",
+  "sample": "Tech-Driven Finance Progress; Revolutionising Product Marketing; People-Centered Software Development; ; to work on engineering products you"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Bdtask",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.bdtask.com/career.php",
+  "sample": "Software Sales & Marketing Executive; Senior Software Engineer (Python/Django); Junior Software Engineer (Python/Django); Sr. PHP Developer"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Xpeed Studio",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://roxnor.com/career/",
+  "sample": "Junior Sales Executive; Do you recruit interns or freshers?"
+ },
+ {
+  "group": "Software/AI",
+  "name": "Inflectionpoint",
+  "status": "manual",
+  "reason": "dns_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "Pathao",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://careers.pathao.com/",
+  "sample": "Marketing; Assistant Manager, Creative; BI Analyst; Customer Experience Officer"
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "Chaldal",
+  "status": "manual",
+  "reason": "timeout",
+  "url": "https://chaldal.com/t/Career",
+  "sample": ""
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "ShopUp",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.shopup.org/career",
+  "sample": "Sr. Executive - Site Acquisition"
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "Shohoz",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "Sheba",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "10 Minute School",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://10minuteschool.com/jobs-prep/",
+  "sample": ""
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "Shikho",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://shikho.freshteam.com/jobs",
+  "sample": "Engineering; Marketing; Android Developer (Sr. Software Engineer); Software Engineer, Backend"
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "Daraz",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.daraz.com.bd/careers",
+  "sample": "Software; Junior Executive/Executive, Customer Service; Internship, Operations; Category Manager, Commercial"
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "foodpanda BD",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Tech product/e-commerce",
+  "name": "Bongo",
+  "status": "manual",
+  "reason": "empty",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Unilever",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2",
+  "sample": "Management Trainee - Finance; Management Trainee - GTM; Management Trainee - Supply Chain; Finance"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "BAT Bangladesh",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Nestle Bangladesh",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Marico Bangladesh",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://marico.com/bangladesh/careers/life-at-marico",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Reckitt",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://careers.reckitt.com/lp/CV%20and%20Interview/e34b45e2d7ebd009/?locale=en_GB",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Square Group",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://squarepharma.com.bd/career_4.php",
+  "sample": "Executive, Production; Associate Scientist (Analytical Research & Development); Junior Officer, Quality Control; Assistant Laboratory Analys"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Square Pharma",
+  "status": "manual",
+  "reason": "conn_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "ACI",
+  "status": "manual",
+  "reason": "timeout",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Walton",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "PRAN-RFL",
+  "status": "manual",
+  "reason": "conn_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Beximco",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Renata",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://www.renata-ltd.com/career",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Incepta",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Akij Venture",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://akijresource.com/job-openings",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Bashundhara",
+  "status": "manual",
+  "reason": "robots_disallowed",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Meghna Group",
+  "status": "manual",
+  "reason": "cert_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "City Group",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://citygroup.com.bd/career",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Partex Star",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://partexstargroup.com/career/job-vacancies/",
+  "sample": "Key Executives; -- Key Executives; hr@psgbd.com"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Transcom",
+  "status": "manual",
+  "reason": "empty",
+  "url": "https://www.transcombd.com/career",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "BSRM",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://bsrm.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Summit Group",
+  "status": "manual",
+  "reason": "dns_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Berger Paints",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://www.bergerbd.com/career/",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Apex Footwear",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.apexfootwearltd.com/career",
+  "sample": "Operation Manager; Officer, Internal Audit; Executive, International Business; Executive, Compensation & Benefit"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "DBL Group",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Epyllion",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Mohammadi Group",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "MGI",
+  "status": "manual",
+  "reason": "cert_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Runner Group",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.runnerbd.com/runner-group/career.php",
+  "sample": "Regional Sales Manager; 02. Job Title: Service Manager – 3 Wheeler; B.Sc in Mechanical Engineering / Diploma in Automobile Engineering.; Man"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Nitol Niloy",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Kazi Farms",
+  "status": "manual",
+  "reason": "not_found",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "BRAC",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://careers.brac.net/",
+  "sample": "Management Trainee Programme; Internship Programme; Kiva Coordinator, BRAC International Holdings BV; Senior Programme Manager, Health, Nutr"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Aarong",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.aarong.com/bgd/careers",
+  "sample": "Manager, Aarong Noakhali; Senior Manager, Aarong E-commerce"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Bata Bangladesh",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://www.batabd.com/pages/careers",
+  "sample": "HR Related Queries:; bd.hr@bata.com"
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "International Beverages",
+  "status": "manual",
+  "reason": "dns_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Industry/FMCG",
+  "name": "Pran Foods",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Audit/Consulting",
+  "name": "Hoda Vasi",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://www.hodavasi.com/",
+  "sample": "International NGO; International Assignments; Understanding International Standards"
+ },
+ {
+  "group": "Audit/Consulting",
+  "name": "Rahman Rahman Huq KPMG",
+  "status": "manual",
+  "reason": "no Bangladesh-specific job page confirmed",
+  "url": "https://kpmg.com/xx/en/careers/job-search.html",
+  "sample": "Apply for a role at KPMG International"
+ },
+ {
+  "group": "Audit/Consulting",
+  "name": "A Qasem",
+  "status": "manual",
+  "reason": "conn_error",
+  "url": "",
+  "sample": ""
+ },
+ {
+  "group": "Audit/Consulting",
+  "name": "LightCastle",
+  "status": "manual",
+  "reason": "bot_check",
+  "url": "https://lightcastlepartners.com/careers/",
+  "sample": ""
+ },
+ {
+  "group": "Job board",
+  "name": "Bdjobs Hot Jobs",
+  "status": "manual",
+  "reason": "blocked",
+  "url": "https://hotjobs.bdjobs.com/",
+  "sample": ""
+ },
+ {
+  "group": "Job board",
+  "name": "Teletalk All Jobs",
+  "status": "ready",
+  "reason": "page readable, no post recognised now",
+  "url": "https://alljobs.teletalk.com.bd/",
+  "sample": ""
+ },
+ {
+  "group": "Job board",
+  "name": "Skill Jobs",
+  "status": "ready",
+  "reason": "job posts visible",
+  "url": "https://skill.jobs/",
+  "sample": "Internship; Data Science; Supply Chain; Marketing"
+ }
+]

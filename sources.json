@@ -1,0 +1,1946 @@
+{
+ "organisations": [
+  {
+   "name": "Bangladesh Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://www.bb.org.bd/en/index.php"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site auto-check allow kore na"
+  },
+  {
+   "name": "Sonali Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://www.sonalibank.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "page khali ashe"
+  },
+  {
+   "name": "Janata Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://www.jb.com.bd/home/declared_rate"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Agrani Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://www.agranibank.org/index.php/home/career"
+   ],
+   "monitor_urls": [
+    "https://www.agranibank.org/index.php/home/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Rupali Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://www.rupalibank.com.bd/notice_jquery.php?type=20"
+   ],
+   "monitor_urls": [
+    "https://www.rupalibank.com.bd/notice_jquery.php?type=20"
+   ],
+   "browser_urls": [
+    "https://www.rupalibank.com.bd/notice_jquery.php?type=20"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "BASIC Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://basicbankplc.com/en/careers"
+   ],
+   "monitor_urls": [
+    "https://basicbankplc.com/en/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Bangladesh Development Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://bdbl.com.bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-er certificate somossa"
+  },
+  {
+   "name": "Sammilito Islami Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://www.domaish.com/product/sammilitoislamibank-com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "domain kaj kore na"
+  },
+  {
+   "name": "Bangladesh Krishi Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://krishibank.org.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-e error"
+  },
+  {
+   "name": "Rajshahi Krishi Unnayan Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://rakub.org.bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-er certificate somossa"
+  },
+  {
+   "name": "Probashi Kallyan Bank",
+   "sector": "Govt bank",
+   "urls": [
+    "https://pkb.gov.bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-er certificate somossa"
+  },
+  {
+   "name": "AB Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://career.abbl.com/"
+   ],
+   "monitor_urls": [
+    "https://career.abbl.com/"
+   ],
+   "browser_urls": [
+    "https://career.abbl.com/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Bangladesh Commerce Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.bcblbd.com/career"
+   ],
+   "monitor_urls": [
+    "https://www.bcblbd.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Bank Asia",
+   "sector": "Bank",
+   "urls": [
+    "https://www.bankasia-bd.com/about/career"
+   ],
+   "monitor_urls": [
+    "https://www.bankasia-bd.com/about/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Bengal Commercial Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://bgcb.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "BRAC Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.bracbank.com/en/career"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Citizens Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.citizensbankbd.com/news-events/citizens-bank-plc-organizes-orientation-program-for-newly-recruited-officers"
+   ],
+   "monitor_urls": [
+    "https://www.citizensbankbd.com/news-events/citizens-bank-plc-organizes-orientation-program-for-newly-recruited-officers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "City Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.citybankplc.com/p/careers"
+   ],
+   "monitor_urls": [
+    "https://www.citybankplc.com/p/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Community Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.communitybankbd.com/career/"
+   ],
+   "monitor_urls": [
+    "https://www.communitybankbd.com/career/"
+   ],
+   "browser_urls": [
+    "https://www.communitybankbd.com/career/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Dhaka Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://dhakabank.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Dutch-Bangla Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://app.dutchbanglabank.com/Online_Job/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "page khali ashe"
+  },
+  {
+   "name": "Eastern Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://ebl.bdjobs.com/Default.asp"
+   ],
+   "monitor_urls": [
+    "https://ebl.bdjobs.com/Default.asp"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "IFIC Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://ificbank.com.bd/career"
+   ],
+   "monitor_urls": [
+    "https://ificbank.com.bd/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Jamuna Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://jamunabankbd.com/careers/"
+   ],
+   "monitor_urls": [
+    "https://jamunabankbd.com/careers/"
+   ],
+   "browser_urls": [
+    "https://jamunabankbd.com/careers/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Meghna Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://career.meghnabank.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site response dey na"
+  },
+  {
+   "name": "Mercantile Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.mblbd.com/home/mblcareer"
+   ],
+   "monitor_urls": [
+    "https://www.mblbd.com/home/mblcareer"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Midland Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.midlandbankbd.net/career/"
+   ],
+   "monitor_urls": [
+    "https://www.midlandbankbd.net/career/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Modhumoti Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.modhumotibankplc.com/career/"
+   ],
+   "monitor_urls": [
+    "https://www.modhumotibankplc.com/career/"
+   ],
+   "browser_urls": [
+    "https://www.modhumotibankplc.com/career/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Mutual Trust Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.mutualtrustbank.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "National Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://nblbd.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-er certificate somossa"
+  },
+  {
+   "name": "NCC Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.nccbank.com.bd/Career"
+   ],
+   "monitor_urls": [
+    "https://www.nccbank.com.bd/Career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "NRB Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.nrbbankbd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "NRBC Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://nrbcommercialbank.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "ONE Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://career.onebank.com.bd/career/"
+   ],
+   "monitor_urls": [
+    "https://career.onebank.com.bd/career/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Padma Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://padmabankbd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Prime Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.primebank.com.bd/career"
+   ],
+   "monitor_urls": [
+    "https://www.primebank.com.bd/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Pubali Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://pubalibangla.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot block kore"
+  },
+  {
+   "name": "SBAC Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://sbacbank.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site auto-check allow kore na"
+  },
+  {
+   "name": "Shimanto Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.shimantobank.com/career"
+   ],
+   "monitor_urls": [
+    "https://www.shimantobank.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Southeast Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://recruitment.southeastbank.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-e connect hoy na"
+  },
+  {
+   "name": "Premier Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://thepremierbankplc.com/career/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Trust Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.tblbd.com/trust-bank-careers/"
+   ],
+   "monitor_urls": [
+    "https://www.tblbd.com/trust-bank-careers/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "UCB",
+   "sector": "Bank",
+   "urls": [
+    "https://www.ucb.com.bd/career"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Uttara Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.uttarabank-bd.com/career"
+   ],
+   "monitor_urls": [
+    "https://www.uttarabank-bd.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Al-Arafah Islami Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://al-arafahbank.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "ICB Islamic Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.icbislamic-bd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Islami Bank Bangladesh",
+   "sector": "Bank",
+   "urls": [
+    "https://www.islamibankbd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Shahjalal Islami Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://sjiblbd.com/career/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Standard Bank",
+   "sector": "Bank",
+   "urls": [
+    "https://www.standardbankbd.com/career"
+   ],
+   "monitor_urls": [
+    "https://www.standardbankbd.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Standard Chartered",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://jobs.standardchartered.com/search/?q=Bangladesh&skillsSearch=false"
+   ],
+   "monitor_urls": [
+    "https://jobs.standardchartered.com/search/?q=Bangladesh&skillsSearch=false"
+   ],
+   "browser_urls": [
+    "https://jobs.standardchartered.com/search/?q=Bangladesh&skillsSearch=false"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "HSBC Bangladesh",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://www.hsbc.com/careers"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Citibank Bangladesh",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://jobs.citi.com/location/dhaka-division-jobs/287/1210997-1337179/3"
+   ],
+   "monitor_urls": [
+    "https://jobs.citi.com/location/dhaka-division-jobs/287/1210997-1337179/3"
+   ],
+   "browser_urls": [
+    "https://jobs.citi.com/location/dhaka-division-jobs/287/1210997-1337179/3"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "State Bank of India BD",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://sbi.bank.in/web/careers"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Woori Bank BD",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://wooribank.com.bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Commercial Bank of Ceylon BD",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://combankbd.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot block kore"
+  },
+  {
+   "name": "Habib Bank BD",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://habibbank.com/careers/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "National Bank of Pakistan",
+   "sector": "Foreign bank",
+   "urls": [
+    "https://www.nbp.com.pk/careers/index.aspx"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "IDLC Finance",
+   "sector": "Finance",
+   "urls": [
+    "https://apps.idlc.com/career"
+   ],
+   "monitor_urls": [
+    "https://apps.idlc.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "IPDC Finance",
+   "sector": "Finance",
+   "urls": [
+    "https://ipdc.com/career"
+   ],
+   "monitor_urls": [
+    "https://ipdc.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "LankaBangla Finance",
+   "sector": "Finance",
+   "urls": [
+    "https://www.lankabd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot block kore"
+  },
+  {
+   "name": "DBH Finance",
+   "sector": "Finance",
+   "urls": [
+    "https://dbhfinance.com/careers"
+   ],
+   "monitor_urls": [
+    "https://dbhfinance.com/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Green Delta Insurance",
+   "sector": "Finance",
+   "urls": [
+    "https://green-delta.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "MetLife Bangladesh",
+   "sector": "Finance",
+   "urls": [
+    "https://www.metlifecareers.com/en_US/ml/gb/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "bKash",
+   "sector": "Telecom",
+   "urls": [
+    "https://www.bkash.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot block kore"
+  },
+  {
+   "name": "Nagad",
+   "sector": "Telecom",
+   "urls": [
+    "https://nagad.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot block kore"
+  },
+  {
+   "name": "Upay",
+   "sector": "Telecom",
+   "urls": [
+    "https://www.upaybd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "SSLCOMMERZ",
+   "sector": "Telecom",
+   "urls": [
+    "https://sslcommerz.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Grameenphone",
+   "sector": "Telecom",
+   "urls": [
+    "https://www.grameenphone.com/about/career"
+   ],
+   "monitor_urls": [
+    "https://www.grameenphone.com/about/career"
+   ],
+   "browser_urls": [
+    "https://www.grameenphone.com/about/career"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Robi Axiata",
+   "sector": "Telecom",
+   "urls": [
+    "https://www.robi.com.bd/en/corporate/career"
+   ],
+   "monitor_urls": [
+    "https://www.robi.com.bd/en/corporate/career"
+   ],
+   "browser_urls": [
+    "https://www.robi.com.bd/en/corporate/career"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Banglalink",
+   "sector": "Telecom",
+   "urls": [
+    "https://www.banglalink.net/careers"
+   ],
+   "monitor_urls": [
+    "https://www.banglalink.net/careers"
+   ],
+   "browser_urls": [
+    "https://www.banglalink.net/careers"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Teletalk",
+   "sector": "Telecom",
+   "urls": [
+    "https://teletalk.com.bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-er certificate somossa"
+  },
+  {
+   "name": "Brain Station 23",
+   "sector": "Software",
+   "urls": [
+    "https://brainstation-23.easy.jobs/"
+   ],
+   "monitor_urls": [
+    "https://brainstation-23.easy.jobs/"
+   ],
+   "browser_urls": [
+    "https://brainstation-23.easy.jobs/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Therap BD",
+   "sector": "Software",
+   "urls": [
+    "https://therap.hire.trakstar.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Enosis Solutions",
+   "sector": "Software",
+   "urls": [
+    "https://careers.enosisbd.com/"
+   ],
+   "monitor_urls": [
+    "https://careers.enosisbd.com/"
+   ],
+   "browser_urls": [
+    "https://careers.enosisbd.com/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "SELISE",
+   "sector": "Software",
+   "urls": [
+    "https://selisegroup.com/about-us/#jobs-main-container"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Cefalo",
+   "sector": "Software",
+   "urls": [
+    "https://career.cefalo.com/"
+   ],
+   "monitor_urls": [
+    "https://career.cefalo.com/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "BJIT",
+   "sector": "Software",
+   "urls": [
+    "https://bjitgroup.com/career"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Vivasoft",
+   "sector": "Software",
+   "urls": [
+    "https://vivasoftltd.com/career/"
+   ],
+   "monitor_urls": [
+    "https://vivasoftltd.com/career/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Kaz Software",
+   "sector": "Software",
+   "urls": [
+    "https://www.kaz.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "REVE Systems",
+   "sector": "Software",
+   "urls": [
+    "https://www.revesoft.com/career"
+   ],
+   "monitor_urls": [
+    "https://www.revesoft.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "LeadSoft",
+   "sector": "Software",
+   "urls": [
+    "https://leadsoft.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Riseup Labs",
+   "sector": "Software",
+   "urls": [
+    "https://riseuplabs.com/jobs/"
+   ],
+   "monitor_urls": [
+    "https://riseuplabs.com/jobs/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Dynamic Solution Innovators",
+   "sector": "Software",
+   "urls": [
+    "https://app.hrythmic.com/recruit/openings/company/dsinnovators/"
+   ],
+   "monitor_urls": [
+    "https://app.hrythmic.com/recruit/openings/company/dsinnovators/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Samsung R&D Bangladesh",
+   "sector": "Software",
+   "urls": [
+    "https://research.samsung.com/careers"
+   ],
+   "monitor_urls": [
+    "https://research.samsung.com/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Tiger IT",
+   "sector": "Software",
+   "urls": [
+    "https://www.tigerit.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Southtech",
+   "sector": "Software",
+   "urls": [
+    "https://southtechgroup.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "DataSoft",
+   "sector": "Software",
+   "urls": [
+    "https://datasoft-bd.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Nascenia",
+   "sector": "Software",
+   "urls": [
+    "https://nascenia.com/careers/"
+   ],
+   "monitor_urls": [
+    "https://nascenia.com/careers/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "WellDev",
+   "sector": "Software",
+   "urls": [
+    "https://www.welldev.io/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Strativ",
+   "sector": "Software",
+   "urls": [
+    "https://strativ.se/arbetsmetod"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "BitMascot",
+   "sector": "Software",
+   "urls": [
+    "https://www.bitmascot.com/careers/"
+   ],
+   "monitor_urls": [
+    "https://www.bitmascot.com/careers/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Monstarlab Bangladesh",
+   "sector": "Software",
+   "urls": [
+    "https://monstar-lab.com/bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Orbitax",
+   "sector": "Software",
+   "urls": [
+    "https://orbitax.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Craftsmen",
+   "sector": "Software",
+   "urls": [
+    "https://careers.craftsmensoftware.com/"
+   ],
+   "monitor_urls": [
+    "https://careers.craftsmensoftware.com/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "ReliSource",
+   "sector": "Software",
+   "urls": [
+    "https://www.relisource.com/careers/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Sazim",
+   "sector": "Software",
+   "urls": [
+    "https://www.sazim.io/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Pridesys",
+   "sector": "Software",
+   "urls": [
+    "https://pridesys.com/careers/"
+   ],
+   "monitor_urls": [
+    "https://pridesys.com/careers/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Apsis Solutions",
+   "sector": "Software",
+   "urls": [
+    "https://apsissolutions.com/career/"
+   ],
+   "monitor_urls": [
+    "https://apsissolutions.com/career/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Streams Tech",
+   "sector": "Software",
+   "urls": [
+    "https://streamstech.com/careers"
+   ],
+   "monitor_urls": [
+    "https://streamstech.com/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Divine IT",
+   "sector": "Software",
+   "urls": [
+    "https://www.divineit.net/about/careers/"
+   ],
+   "monitor_urls": [
+    "https://www.divineit.net/about/careers/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "TechnoNext",
+   "sector": "Software",
+   "urls": [
+    "https://technonext.com/career"
+   ],
+   "monitor_urls": [
+    "https://technonext.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "ShellBeeHaken",
+   "sector": "Software",
+   "urls": [
+    "https://shellbeehaken.com/join-us"
+   ],
+   "monitor_urls": [
+    "https://shellbeehaken.com/join-us"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "BRAC IT",
+   "sector": "Software",
+   "urls": [
+    "https://www.bracits.com/career/"
+   ],
+   "monitor_urls": [
+    "https://www.bracits.com/career/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Ollyo",
+   "sector": "Software",
+   "urls": [
+    "https://ollyo.com/careers/"
+   ],
+   "monitor_urls": [
+    "https://ollyo.com/careers/"
+   ],
+   "browser_urls": [
+    "https://ollyo.com/careers/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "weDevs",
+   "sector": "Software",
+   "urls": [
+    "https://www.wedevs.com/career/"
+   ],
+   "monitor_urls": [
+    "https://www.wedevs.com/career/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Portonics",
+   "sector": "Software",
+   "urls": [
+    "https://www.portonics.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "SSL Wireless",
+   "sector": "Software",
+   "urls": [
+    "https://www.sslwireless.com/careers"
+   ],
+   "monitor_urls": [
+    "https://www.sslwireless.com/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Augmedix",
+   "sector": "Software",
+   "urls": [
+    "https://www.augmedix.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Intelligent Machines",
+   "sector": "Software",
+   "urls": [
+    "https://intelligentmachines.xyz/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Gigatech",
+   "sector": "Software",
+   "urls": [
+    "https://gigatechltd.com/career/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Hishab",
+   "sector": "Software",
+   "urls": [
+    "https://hishab.co"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-e connect hoy na"
+  },
+  {
+   "name": "Synesis IT",
+   "sector": "Software",
+   "urls": [
+    "https://synesisitltd.com/national-job-portal/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Exabyting",
+   "sector": "Software",
+   "urls": [
+    "https://exabyting.com/join-our-team/"
+   ],
+   "monitor_urls": [
+    "https://exabyting.com/join-our-team/"
+   ],
+   "browser_urls": [
+    "https://exabyting.com/join-our-team/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Bdtask",
+   "sector": "Software",
+   "urls": [
+    "https://www.bdtask.com/career.php"
+   ],
+   "monitor_urls": [
+    "https://www.bdtask.com/career.php"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Xpeed Studio",
+   "sector": "Software",
+   "urls": [
+    "https://roxnor.com/career/"
+   ],
+   "monitor_urls": [
+    "https://roxnor.com/career/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Inflectionpoint",
+   "sector": "Software",
+   "urls": [
+    "https://inflectionpointbd.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "domain kaj kore na"
+  },
+  {
+   "name": "Pathao",
+   "sector": "Tech",
+   "urls": [
+    "https://careers.pathao.com/"
+   ],
+   "monitor_urls": [
+    "https://careers.pathao.com/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Chaldal",
+   "sector": "Tech",
+   "urls": [
+    "https://chaldal.com/t/Career"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site response dey na"
+  },
+  {
+   "name": "ShopUp",
+   "sector": "Tech",
+   "urls": [
+    "https://www.shopup.org/career"
+   ],
+   "monitor_urls": [
+    "https://www.shopup.org/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Shohoz",
+   "sector": "Tech",
+   "urls": [
+    "https://www.shohoz.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Sheba",
+   "sector": "Tech",
+   "urls": [
+    "https://www.sheba.xyz/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "10 Minute School",
+   "sector": "Tech",
+   "urls": [
+    "https://10minuteschool.com/jobs-prep/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Shikho",
+   "sector": "Tech",
+   "urls": [
+    "https://shikho.freshteam.com/jobs"
+   ],
+   "monitor_urls": [
+    "https://shikho.freshteam.com/jobs"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Daraz",
+   "sector": "Tech",
+   "urls": [
+    "https://www.daraz.com.bd/careers"
+   ],
+   "monitor_urls": [
+    "https://www.daraz.com.bd/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "foodpanda BD",
+   "sector": "Tech",
+   "urls": [
+    "https://www.foodpanda.com.bd/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Bongo",
+   "sector": "Tech",
+   "urls": [
+    "https://bongobd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "page khali ashe"
+  },
+  {
+   "name": "Unilever",
+   "sector": "Industry",
+   "urls": [
+    "https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2"
+   ],
+   "monitor_urls": [
+    "https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2"
+   ],
+   "browser_urls": [
+    "https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "BAT Bangladesh",
+   "sector": "Industry",
+   "urls": [
+    "https://www.batbangladesh.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot block kore"
+  },
+  {
+   "name": "Nestle Bangladesh",
+   "sector": "Industry",
+   "urls": [
+    "https://www.nestle.com.bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot block kore"
+  },
+  {
+   "name": "Marico Bangladesh",
+   "sector": "Industry",
+   "urls": [
+    "https://marico.com/bangladesh/careers/life-at-marico"
+   ],
+   "monitor_urls": [
+    "https://marico.com/bangladesh/careers/life-at-marico"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Reckitt",
+   "sector": "Industry",
+   "urls": [
+    "https://careers.reckitt.com/lp/CV%20and%20Interview/e34b45e2d7ebd009/?locale=en_GB"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Square Group",
+   "sector": "Industry",
+   "urls": [
+    "https://squarepharma.com.bd/career_4.php"
+   ],
+   "monitor_urls": [
+    "https://squarepharma.com.bd/career_4.php"
+   ],
+   "browser_urls": [
+    "https://squarepharma.com.bd/career_4.php"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Square Pharma",
+   "sector": "Industry",
+   "urls": [
+    "https://squarepharma.com.bd"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-e connect hoy na"
+  },
+  {
+   "name": "ACI",
+   "sector": "Industry",
+   "urls": [
+    "https://www.aci-bd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site response dey na"
+  },
+  {
+   "name": "Walton",
+   "sector": "Industry",
+   "urls": [
+    "https://waltonbd.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "PRAN-RFL",
+   "sector": "Industry",
+   "urls": [
+    "https://prangroup.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-e connect hoy na"
+  },
+  {
+   "name": "Beximco",
+   "sector": "Industry",
+   "urls": [
+    "https://www.beximco.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Renata",
+   "sector": "Industry",
+   "urls": [
+    "https://www.renata-ltd.com/career"
+   ],
+   "monitor_urls": [
+    "https://www.renata-ltd.com/career"
+   ],
+   "browser_urls": [
+    "https://www.renata-ltd.com/career"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Incepta",
+   "sector": "Industry",
+   "urls": [
+    "https://inceptapharma.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Akij Venture",
+   "sector": "Industry",
+   "urls": [
+    "https://akijresource.com/job-openings"
+   ],
+   "monitor_urls": [
+    "https://akijresource.com/job-openings"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Bashundhara",
+   "sector": "Industry",
+   "urls": [
+    "https://www.bashundharagroup.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site auto-check allow kore na"
+  },
+  {
+   "name": "Meghna Group",
+   "sector": "Industry",
+   "urls": [
+    "https://meghnagroup.biz"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-er certificate somossa"
+  },
+  {
+   "name": "City Group",
+   "sector": "Industry",
+   "urls": [
+    "https://citygroup.com.bd/career"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Partex Star",
+   "sector": "Industry",
+   "urls": [
+    "https://partexstargroup.com/career/job-vacancies/"
+   ],
+   "monitor_urls": [
+    "https://partexstargroup.com/career/job-vacancies/"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Transcom",
+   "sector": "Industry",
+   "urls": [
+    "https://www.transcombd.com/career"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "page khali ashe"
+  },
+  {
+   "name": "BSRM",
+   "sector": "Industry",
+   "urls": [
+    "https://bsrm.com/career/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Summit Group",
+   "sector": "Industry",
+   "urls": [
+    "https://summitgroupbd.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "domain kaj kore na"
+  },
+  {
+   "name": "Berger Paints",
+   "sector": "Industry",
+   "urls": [
+    "https://www.bergerbd.com/career/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Apex Footwear",
+   "sector": "Industry",
+   "urls": [
+    "https://www.apexfootwearltd.com/career"
+   ],
+   "monitor_urls": [
+    "https://www.apexfootwearltd.com/career"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "DBL Group",
+   "sector": "Industry",
+   "urls": [
+    "https://www.dbl-group.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Epyllion",
+   "sector": "Industry",
+   "urls": [
+    "https://epylliongroup.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Mohammadi Group",
+   "sector": "Industry",
+   "urls": [
+    "https://mohammadigroup.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "MGI",
+   "sector": "Industry",
+   "urls": [
+    "https://mgi.org"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-er certificate somossa"
+  },
+  {
+   "name": "Runner Group",
+   "sector": "Industry",
+   "urls": [
+    "https://www.runnerbd.com/runner-group/career.php"
+   ],
+   "monitor_urls": [
+    "https://www.runnerbd.com/runner-group/career.php"
+   ],
+   "browser_urls": [
+    "https://www.runnerbd.com/runner-group/career.php"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Nitol Niloy",
+   "sector": "Industry",
+   "urls": [
+    "https://www.domaish.com/product/nitolniloy-com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "Kazi Farms",
+   "sector": "Industry",
+   "urls": [
+    "https://www.kazifarms.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "career page pawa jayni"
+  },
+  {
+   "name": "BRAC",
+   "sector": "Industry",
+   "urls": [
+    "https://careers.brac.net/"
+   ],
+   "monitor_urls": [
+    "https://careers.brac.net/"
+   ],
+   "browser_urls": [
+    "https://careers.brac.net/"
+   ],
+   "status": "Ready"
+  },
+  {
+   "name": "Aarong",
+   "sector": "Industry",
+   "urls": [
+    "https://www.aarong.com/bgd/careers"
+   ],
+   "monitor_urls": [
+    "https://www.aarong.com/bgd/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "Bata Bangladesh",
+   "sector": "Industry",
+   "urls": [
+    "https://www.batabd.com/pages/careers"
+   ],
+   "monitor_urls": [
+    "https://www.batabd.com/pages/careers"
+   ],
+   "browser_urls": [],
+   "status": "Ready"
+  },
+  {
+   "name": "International Beverages",
+   "sector": "Industry",
+   "urls": [
+    "https://ibplbd.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "domain kaj kore na"
+  },
+  {
+   "name": "Pran Foods",
+   "sector": "Industry",
+   "urls": [
+    "https://pranfoods.net/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  },
+  {
+   "name": "Hoda Vasi",
+   "sector": "Audit",
+   "urls": [
+    "https://www.hodavasi.com/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "Rahman Rahman Huq KPMG",
+   "sector": "Audit",
+   "urls": [
+    "https://kpmg.com/xx/en/careers/job-search.html"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "no Bangladesh-specific job page confirmed"
+  },
+  {
+   "name": "A Qasem",
+   "sector": "Audit",
+   "urls": [
+    "https://aqasem.com"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site-e connect hoy na"
+  },
+  {
+   "name": "LightCastle",
+   "sector": "Audit",
+   "urls": [
+    "https://lightcastlepartners.com/careers/"
+   ],
+   "monitor_urls": [],
+   "browser_urls": [],
+   "status": "Manual",
+   "note": "site bot check dekhay"
+  }
+ ],
+ "backup_sources": [
+  {
+   "name": "Teletalk All Jobs",
+   "urls": [
+    "https://alljobs.teletalk.com.bd/"
+   ],
+   "monitor_urls": [
+    "https://alljobs.teletalk.com.bd/"
+   ]
+  },
+  {
+   "name": "Skill Jobs",
+   "urls": [
+    "https://skill.jobs/"
+   ],
+   "monitor_urls": [
+    "https://skill.jobs/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,987 @@
+[
+{
+"group": "Bank: central/state",
+"name": "Sonali Bank",
+"state": "empty",
+"url": "https://www.sonalibank.com.bd/career.php",
+"title": "",
+"posts": [],
+"tried": [
+"empty:https://www.sonalibank.com.bd/career.php"
+]
+},
+{
+"group": "Bank: central/state",
+"name": "Janata Bank",
+"state": "not_found",
+"url": "https://www.jb.com.bd/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.jb.com.bd/career",
+"not_found:https://www.jb.com.bd/home/career",
+"ok:https://www.jb.com.bd/home/declared_rate"
+]
+},
+{
+"group": "Bank: central/state",
+"name": "Rupali Bank",
+"state": "ok",
+"url": "https://www.rupalibank.com.bd/notice_jquery.php?type=20",
+"title": "Rupali Bank PLC.",
+"posts": [
+"ADMIN. & HR DIVISION",
+"ENGINEERING DIVISION",
+"FOREIGN TRADE FINANCE & INTERNATIONAL DIVISION",
+"INTERNAL AUDIT COMPLIANCE DIVISION"
+],
+"tried": [
+"ok:https://www.rupalibank.com.bd/notice_jquery.php?type=20",
+"blocked:https://www.rupalibank.com.bd/download.php?file=20251105064832-48491.pdf",
+"blocked:https://www.rupalibank.com.bd/download.php?file=20240229050243-45788.pdf"
+]
+},
+{
+"group": "Bank: central/state",
+"name": "Sammilito Islami Bank",
+"state": "dns_error",
+"url": "https://www.sibl-bd.com/",
+"title": "",
+"posts": [],
+"tried": [
+"dns_error:https://www.sibl-bd.com/",
+"dns_error:https://sammilitoislamibank.com.bd/",
+"not_found:https://www.domaish.com/career"
+]
+},
+{
+"group": "Bank: central/state",
+"name": "Bangladesh Krishi Bank",
+"state": "server_error",
+"url": "https://krishibank.org.bd/career",
+"title": "",
+"posts": [],
+"tried": [
+"server_error:https://krishibank.org.bd/career"
+]
+},
+{
+"group": "Bank: private",
+"name": "AB Bank",
+"state": "ok",
+"url": "https://career.abbl.com/",
+"title": "Talent-Troop",
+"posts": [
+"Join AB Bank as HR - Contract Employee (HCE)"
+],
+"tried": [
+"ok:https://career.abbl.com/"
+]
+},
+{
+"group": "Bank: private",
+"name": "Community Bank",
+"state": "ok",
+"url": "https://www.communitybankbd.com/career/",
+"title": "Career - Community Bank Bangladesh PLC.",
+"posts": [
+"Executive Committee",
+"Accounts",
+"Trade Finance",
+"Working Capital Finance"
+],
+"tried": [
+"ok:https://www.communitybankbd.com/career/"
+]
+},
+{
+"group": "Bank: private",
+"name": "Dhaka Bank",
+"state": "not_found",
+"url": "https://dhakabank.com.bd/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://dhakabank.com.bd/career"
+]
+},
+{
+"group": "Bank: private",
+"name": "Dutch-Bangla Bank",
+"state": "dns_error",
+"url": "https://www.dutchbanglabank.com/career/career.html",
+"title": "",
+"posts": [],
+"tried": [
+"dns_error:https://www.dutchbanglabank.com/career/career.html",
+"dns_error:https://app.dutchbanglabank.com/Online_Job",
+"dns_error:https://www.dutchbanglabank.com/career"
+]
+},
+{
+"group": "Bank: private",
+"name": "Jamuna Bank",
+"state": "ok",
+"url": "https://jamunabankbd.com/careers/",
+"title": "Careers – Jamuna Bank",
+"posts": [
+"Executive Committee",
+"Internet Banking"
+],
+"tried": [
+"ok:https://jamunabankbd.com/careers/"
+]
+},
+{
+"group": "Bank: private",
+"name": "Modhumoti Bank",
+"state": "ok",
+"url": "https://www.modhumotibankplc.com/career/",
+"title": "Career",
+"posts": [
+"Sustainable Finance"
+],
+"tried": [
+"ok:https://www.modhumotibankplc.com/career",
+"empty:https://modhumotibankltd.com/career",
+"timeout:https://www.domaish.com/career"
+]
+},
+{
+"group": "Bank: private",
+"name": "Southeast Bank",
+"state": "conn_error",
+"url": "https://recruitment.southeastbank.com.bd/",
+"title": "",
+"posts": [],
+"tried": [
+"conn_error:https://recruitment.southeastbank.com.bd/"
+]
+},
+{
+"group": "Bank: private",
+"name": "Premier Bank",
+"state": "not_found",
+"url": "https://www.premierbankplc.com/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.premierbankplc.com/careers",
+"not_found:https://premierbankplc.com/page/career",
+"not_found:https://www.premierbankplc.com/career"
+]
+},
+{
+"group": "Bank: private",
+"name": "Trust Bank",
+"state": "not_found",
+"url": "https://www.tblbd.com/career/",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.tblbd.com/career",
+"not_found:https://tblbd.com/careers",
+"conn_error:https://trustbank.com.bd/career"
+]
+},
+{
+"group": "Bank: private",
+"name": "UCB",
+"state": "ok",
+"url": "https://www.ucb.com.bd/career/life-at-ucb/",
+"title": "United Commercial Bank (UCB)",
+"posts": [
+"Accounts",
+"Structured Finance",
+"UCB One Internet Banking"
+],
+"tried": [
+"ok:https://www.ucb.com.bd/career/life-at-ucb/"
+]
+},
+{
+"group": "Bank: private",
+"name": "Al-Arafah Islami Bank",
+"state": "bot_check",
+"url": "https://www.aibl.com.bd/career/",
+"title": "",
+"posts": [],
+"tried": [
+"bot_check:https://www.aibl.com.bd/career",
+"not_found:https://aibl.com.bd/careers",
+"conn_error:https://al-arafahbank.com/career"
+]
+},
+{
+"group": "Bank: private",
+"name": "ICB Islamic Bank",
+"state": "soft_404",
+"url": "https://www.icbislamic-bd.com/under-construction/",
+"title": "Under Construction – ICB Islamic Bank Ltd.",
+"posts": [],
+"tried": [
+"soft_404:https://www.icbislamic-bd.com/under-construction/",
+"soft_404:https://icbislamic-bd.com/under-construction"
+]
+},
+{
+"group": "Bank: private",
+"name": "Islami Bank Bangladesh",
+"state": "bot_check",
+"url": "https://career.islamibankbd.com/",
+"title": "",
+"posts": [],
+"tried": [
+"bot_check:https://career.islamibankbd.com/",
+"bot_check:https://career.islamibankbd.com"
+]
+},
+{
+"group": "Bank: private",
+"name": "Shahjalal Islami Bank",
+"state": "not_found",
+"url": "https://sjiblbd.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.sjiblbd.com/career",
+"dns_error:https://sjibl.com.bd/career",
+"dns_error:https://shahjalalbank.com.bd/career"
+]
+},
+{
+"group": "Bank: foreign",
+"name": "Standard Chartered",
+"state": "ok",
+"url": "https://www.sc.com/en/global-careers/experienced-hire/",
+"title": "Careers for experienced professionals | Standard Chartered",
+"posts": [
+"Associate Relationship Manager",
+"Business Development Executive",
+"Senior Relationship Manager",
+"AI Product Strategy & Adoption"
+],
+"tried": [
+"ok:https://jobs.standardchartered.com/search/?q=Bangladesh",
+"ok:https://www.sc.com/en/global-careers/experienced-hire/"
+]
+},
+{
+"group": "Bank: foreign",
+"name": "HSBC Bangladesh",
+"state": "ok",
+"url": "https://www.hsbc.com/careers",
+"title": "Careers: Discover opportunities | HSBC Holdings plc",
+"posts": [
+"Relationship Manager, HSBC Private Bank",
+"Bridging the worlds of art and finance",
+"Relationship Manager",
+"Chen Chowers, Relationship Manager, Private Bank"
+],
+"tried": [
+"ok:https://www.about.hsbc.com.bd/careers",
+"ok:https://www.hsbc.com/careers",
+"dns_error:https://about.hsbc.com.bd/career"
+]
+},
+{
+"group": "Bank: foreign",
+"name": "Citibank Bangladesh",
+"state": "ok",
+"url": "https://jobs.citi.com/",
+"title": "Citi Careers | Find Your Next Opportunity",
+"posts": [
+"Chief Executive Officer"
+],
+"tried": [
+"ok:https://jobs.citi.com/location/bangladesh-jobs/287/1210997/2",
+"ok:https://jobs.citi.com/"
+]
+},
+{
+"group": "Bank: foreign",
+"name": "State Bank of India BD",
+"state": "ok",
+"url": "https://sbi.bank.in/web/careers",
+"title": "New Home - Careers",
+"posts": [
+"Meghana U S Murthy, Manager",
+"Nishi Rungta, Assistant Manager",
+"Kavita Arya, Chief Manager"
+],
+"tried": [
+"ok:https://bank.sbi/web/careers",
+"empty:https://sbi.co.in/career.php"
+]
+},
+{
+"group": "Bank: foreign",
+"name": "Woori Bank BD",
+"state": "not_found",
+"url": "https://www.wooribank.com/bd",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.wooribank.com/bd",
+"dns_error:https://wooribank.com.bd/career"
+]
+},
+{
+"group": "Bank: foreign",
+"name": "Commercial Bank of Ceylon BD",
+"state": "blocked",
+"url": "https://www.combank.lk/",
+"title": "",
+"posts": [],
+"tried": [
+"blocked:https://www.combank.net/bangladesh",
+"blocked:https://www.combank.lk/careers",
+"dns_error:https://combankbd.com/career"
+]
+},
+{
+"group": "Finance/NBFI",
+"name": "LankaBangla Finance",
+"state": "blocked",
+"url": "https://www.lankabangla.com/career/",
+"title": "",
+"posts": [],
+"tried": [
+"blocked:https://www.lankabangla.com/career/",
+"bot_check:https://lankabangla.com/careers/",
+"not_found:https://www.lankabd.com/career"
+]
+},
+{
+"group": "Fintech/Telecom",
+"name": "Upay",
+"state": "not_found",
+"url": "https://www.upaybd.com/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.upaybd.com/careers",
+"not_found:https://www.upaybd.com/career"
+]
+},
+{
+"group": "Fintech/Telecom",
+"name": "SSLCOMMERZ",
+"state": "not_found",
+"url": "https://sslcommerz.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://sslcommerz.com/career"
+]
+},
+{
+"group": "Fintech/Telecom",
+"name": "Grameenphone",
+"state": "ok",
+"url": "https://www.grameenphone.com/about/career",
+"title": "Career | Grameenphone",
+"posts": [],
+"tried": [
+"ok:https://www.grameenphone.com/about/career",
+"not_found:https://www.grameenphone.com/careers",
+"not_found:https://www.grameenphone.com/career"
+]
+},
+{
+"group": "Fintech/Telecom",
+"name": "Robi Axiata",
+"state": "ok",
+"url": "https://www.robi.com.bd/en/corporate/career",
+"title": "My Robi",
+"posts": [
+"Data Policy and Security Policy",
+"AI Principles"
+],
+"tried": [
+"ok:https://www.robi.com.bd/en/corporate/career",
+"dns_error:https://careers.robi.com.bd/",
+"empty:https://www.robi.com.bd/en/career"
+]
+},
+{
+"group": "Fintech/Telecom",
+"name": "Banglalink",
+"state": "ok",
+"url": "https://www.banglalink.net/careers",
+"title": "Career | Life at Banglalink",
+"posts": [
+"International Women’s Day Celebration",
+"Digitalyst Internship Program"
+],
+"tried": [
+"not_found:https://www.banglalink.net/en/about-us/career",
+"dns_error:https://career.banglalink.net/",
+"ok:https://www.banglalink.net/careers"
+]
+},
+{
+"group": "Software/AI",
+"name": "Brain Station 23",
+"state": "ok",
+"url": "https://brainstation-23.easy.jobs/",
+"title": "Brain Station 23",
+"posts": [
+"Project Manager – FinTech",
+"Senior Growth Marketing Manager",
+"Manager, Sales - Fintech",
+"Sales Lead - International Business (Fintech)"
+],
+"tried": [
+"ok:https://brainstation-23.easy.jobs/"
+]
+},
+{
+"group": "Software/AI",
+"name": "Therap BD",
+"state": "bot_check",
+"url": "https://therap.hire.trakstar.com/",
+"title": "",
+"posts": [],
+"tried": [
+"bot_check:https://therap.hire.trakstar.com/",
+"bot_check:https://therap.recruiterbox.com/"
+]
+},
+{
+"group": "Software/AI",
+"name": "Enosis Solutions",
+"state": "ok",
+"url": "https://careers.enosisbd.com/",
+"title": "Jobs at Enosis Solutions | Enosis Solutions Careers",
+"posts": [],
+"tried": [
+"ok:https://careers.enosisbd.com/"
+]
+},
+{
+"group": "Software/AI",
+"name": "SELISE",
+"state": "ok",
+"url": "https://selisegroup.com/about-us/#jobs-main-container",
+"title": "About SELISE: Zurich IT Delivery Since 2011 | SELISE Group",
+"posts": [
+"Marketing",
+"LogsDatabaseV2:V#||LogsRequestsStore",
+"YtIdbMeta#databases",
+"Engineering"
+],
+"tried": [
+"ok:https://selisegroup.com/careers/",
+"dns_error:https://career.selisegroup.com/",
+"ok:https://selisegroup.com/"
+]
+},
+{
+"group": "Software/AI",
+"name": "LeadSoft",
+"state": "not_found",
+"url": "https://leadsoft.com.bd/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://leadsoft.com.bd/careers",
+"not_found:https://leadsoft.com.bd/career-opportunities",
+"not_found:https://leadsoft.com.bd/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "Tiger IT",
+"state": "not_found",
+"url": "https://www.tigerit.com/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.tigerit.com/careers",
+"not_found:https://www.tigerit.com/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "WellDev",
+"state": "not_found",
+"url": "https://www.welldev.io/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.welldev.io/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "Strativ",
+"state": "not_found",
+"url": "https://strativ.se/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://strativ.se/career",
+"not_found:https://www.strativ.se/careers",
+"ok:https://strativ.se/arbetsmetod"
+]
+},
+{
+"group": "Software/AI",
+"name": "Orbitax",
+"state": "not_found",
+"url": "https://orbitax.com/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://orbitax.com/careers",
+"not_found:https://www.orbitax.com/careers",
+"not_found:https://orbitax.com/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "Sazim",
+"state": "not_found",
+"url": "https://www.sazim.io/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.sazim.io/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "Ollyo",
+"state": "ok",
+"url": "https://ollyo.com/job/software-qa-engineer/",
+"title": "Software QA Engineer (Entry Level) – Ollyo",
+"posts": [
+"Software QA Engineer (Entry Level) – Ollyo",
+"Engineering",
+"Software QA Engineer",
+"Entry-Level Software QA Engineer"
+],
+"tried": [
+"ok:https://ollyo.com/careers/",
+"ok:https://ollyo.com/job/software-qa-engineer/"
+]
+},
+{
+"group": "Software/AI",
+"name": "Augmedix",
+"state": "not_found",
+"url": "https://www.augmedix.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.augmedix.com/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "Intelligent Machines",
+"state": "not_found",
+"url": "https://intelligentmachines.xyz/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://intelligentmachines.xyz/careers",
+"not_found:https://intelligentmachines.xyz/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "Hishab",
+"state": "conn_error",
+"url": "https://hishab.co/careers",
+"title": "",
+"posts": [],
+"tried": [
+"conn_error:https://hishab.co/careers",
+"conn_error:https://www.hishab.co/",
+"conn_error:https://hishab.co/career"
+]
+},
+{
+"group": "Software/AI",
+"name": "Synesis IT",
+"state": "ok",
+"url": "https://synesisitltd.com/national-job-portal/",
+"title": "National Job Portal | Synesis IT",
+"posts": [
+"AI/ML-Enhanced Recruitment",
+"DevOps",
+"Data Science and Analytics"
+],
+"tried": [
+"ok:https://synesisitltd.com/career/",
+"ok:https://synesisitltd.com/national-job-portal/"
+]
+},
+{
+"group": "Software/AI",
+"name": "Exabyting",
+"state": "ok",
+"url": "https://exabyting.com/join-our-team/",
+"title": "Join Our Team – Exabyting",
+"posts": [
+"Tech-Driven Finance Progress",
+"Revolutionising Product Marketing",
+"People-Centered Software Development",
+"; to work on engineering products you"
+],
+"tried": [
+"ok:https://exabyting.com/join-our-team/"
+]
+},
+{
+"group": "Software/AI",
+"name": "Inflectionpoint",
+"state": "dns_error",
+"url": "https://www.inflectionpoint.com.bd/",
+"title": "",
+"posts": [],
+"tried": [
+"dns_error:https://www.inflectionpoint.com.bd/",
+"dns_error:https://inflectionpointbd.com/career"
+]
+},
+{
+"group": "Tech product/e-commerce",
+"name": "Chaldal",
+"state": "not_found",
+"url": "https://chaldal.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://chaldal.com/career"
+]
+},
+{
+"group": "Tech product/e-commerce",
+"name": "Shohoz",
+"state": "not_found",
+"url": "https://www.shohoz.com/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.shohoz.com/careers",
+"not_found:https://www.shohoz.com/career"
+]
+},
+{
+"group": "Tech product/e-commerce",
+"name": "Sheba",
+"state": "not_found",
+"url": "https://www.sheba.xyz/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.sheba.xyz/careers",
+"not_found:https://www.sheba.xyz/career"
+]
+},
+{
+"group": "Tech product/e-commerce",
+"name": "10 Minute School",
+"state": "ok",
+"url": "https://10minuteschool.com/jobs-prep/",
+"title": "Job Recruitment - 10 Minute School",
+"posts": [],
+"tried": [
+"ok:https://10minuteschool.com/careers/",
+"ok:https://10minuteschool.com/jobs-prep/"
+]
+},
+{
+"group": "Tech product/e-commerce",
+"name": "foodpanda BD",
+"state": "bot_check",
+"url": "https://careers.foodpanda.com/",
+"title": "",
+"posts": [],
+"tried": [
+"bot_check:https://careers.foodpanda.com/",
+"not_found:https://www.foodpanda.com.bd/career"
+]
+},
+{
+"group": "Tech product/e-commerce",
+"name": "Bongo",
+"state": "empty",
+"url": "https://bongobd.com/career",
+"title": "Enjoy Bangla Entertainment Anytime, Anywhere",
+"posts": [],
+"tried": [
+"empty:https://bongobd.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Unilever",
+"state": "ok",
+"url": "https://careers.unilever.com/en/early-careers",
+"title": "Early Careers",
+"posts": [
+"Explore 2026 Graduate Trainee Program in Taiwan",
+"Internships",
+"Finance",
+"Marketing"
+],
+"tried": [
+"ok:https://careers.unilever.com/en/early-careers"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Reckitt",
+"state": "ok",
+"url": "https://careers.reckitt.com/lp/CV%20and%20Interview/e34b45e2d7ebd009/?locale=en_GB",
+"title": "CV and Interview",
+"posts": [],
+"tried": [
+"ok:https://careers.reckitt.com/search/?q=Bangladesh",
+"ok:https://careers.reckitt.com/lp/CV%20and%20Interview/e34b45e2d7ebd009/?locale=en_GB"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Square Group",
+"state": "ok",
+"url": "https://webmail.squaregroup.com/sso/",
+"title": "Square Group Webmail",
+"posts": [],
+"tried": [
+"ok:https://squaregroup.com/owa/career.php"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Square Pharma",
+"state": "conn_error",
+"url": "https://squarepharma.com.bd/career",
+"title": "",
+"posts": [],
+"tried": [
+"conn_error:https://squarepharma.com.bd/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "ACI",
+"state": "timeout",
+"url": "http://www.aci-bd.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"timeout:http://www.aci-bd.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Walton",
+"state": "not_found",
+"url": "https://waltonbd.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://waltonbd.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "PRAN-RFL",
+"state": "conn_error",
+"url": "https://prangroup.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"conn_error:https://prangroup.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Beximco",
+"state": "not_found",
+"url": "https://www.beximco.com/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.beximco.com/careers",
+"not_found:https://www.beximco.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Renata",
+"state": "ok",
+"url": "https://www.renata-ltd.com/career",
+"title": "Renata PLC | Career",
+"posts": [],
+"tried": [
+"ok:https://www.renata-ltd.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Akij Venture",
+"state": "empty",
+"url": "https://www.akijventure.com/career",
+"title": "Akij Venture Ltd",
+"posts": [],
+"tried": [
+"empty:https://www.akijventure.com/career",
+"empty:https://www.akijventure.com/"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Transcom",
+"state": "ok",
+"url": "https://www.transcombd.com/career/life-at-transcom/",
+"title": "Life at Transcom | Transcom Group | Career",
+"posts": [
+"Transcom Corporate HR Workshop 2025",
+"Corporate HR workshop '24",
+"International Women's Day",
+"Restaurant General Manager Convention"
+],
+"tried": [
+"empty:https://www.transcombd.com/career",
+"ok:https://www.transcombd.com/career/life-at-transcom/",
+"ok:https://www.transcombd.com/career/join-us/"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Summit Group",
+"state": "dns_error",
+"url": "https://www.summit-bd.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"dns_error:https://www.summit-bd.com/career",
+"conn_error:https://summitpowerinternational.com/careers/",
+"conn_error:https://summitgroupbd.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "DBL Group",
+"state": "bot_check",
+"url": "https://www.dbl-group.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"bot_check:https://www.dbl-group.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Runner Group",
+"state": "ok",
+"url": "https://www.runnerbd.com/runner-group/career.php",
+"title": "Career || Runner Group",
+"posts": [
+"Regional Sales Manager",
+"02. Job Title: Service Manager – 3 Wheeler",
+"B.Sc in Mechanical Engineering / Diploma in Automobile Engineering.",
+"Manager – Sales"
+],
+"tried": [
+"not_found:https://www.runnerbd.com/careers",
+"not_found:https://www.runnerbd.com/career",
+"ok:https://www.runnerbd.com/runner-group/career.php"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Nitol Niloy",
+"state": "not_found",
+"url": "https://www.nitolniloygroup.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.nitolniloygroup.com/career",
+"not_found:https://www.domaish.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "Kazi Farms",
+"state": "not_found",
+"url": "https://www.kazifarms.com/careers",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.kazifarms.com/careers",
+"not_found:https://www.kazifarms.com/career"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "BRAC",
+"state": "ok",
+"url": "https://careers.brac.net/",
+"title": "BRAC Careers",
+"posts": [
+"Management Trainee Programme",
+"Internship Programme",
+"Kiva Coordinator, BRAC International Holdings BV",
+"Senior Programme Manager, Health, Nutrition and Population Programme"
+],
+"tried": [
+"ok:https://careers.brac.net"
+]
+},
+{
+"group": "Industry/FMCG",
+"name": "International Beverages",
+"state": "dns_error",
+"url": "https://www.ibplbd.net/career",
+"title": "",
+"posts": [],
+"tried": [
+"dns_error:https://www.ibplbd.net/career",
+"dns_error:https://ibplbd.com/career"
+]
+},
+{
+"group": "Audit/Consulting",
+"name": "Hoda Vasi",
+"state": "not_found",
+"url": "https://www.hodavasi.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"not_found:https://www.hodavasi.com/career",
+"ok:https://www.hodavasi.com/"
+]
+},
+{
+"group": "Audit/Consulting",
+"name": "Rahman Rahman Huq KPMG",
+"state": "ok",
+"url": "https://kpmg.com/xx/en/careers/job-search.html",
+"title": "Job search",
+"posts": [
+"Apply for a role at KPMG International"
+],
+"tried": [
+"ok:https://kpmg.com/bd/en/careers.html",
+"ok:https://kpmg.com/xx/en/careers/job-search.html"
+]
+},
+{
+"group": "Audit/Consulting",
+"name": "A Qasem",
+"state": "conn_error",
+"url": "https://aqasem.com/career",
+"title": "",
+"posts": [],
+"tried": [
+"conn_error:https://aqasem.com/career"
+]
+}
+]
