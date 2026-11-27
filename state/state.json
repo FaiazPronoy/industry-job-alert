@@ -1,9 +1,9 @@
 {
 "board_messages": [
-7,
-8,
-9,
-10
+11,
+12,
+13,
+14
 ],
 "items": {
 "0128cd870b58e2352d4c": {
@@ -1857,7 +1857,7 @@
 },
 "last_digest": null,
 "last_manual": null,
-"last_run": "2026-11-26T19:44:03.137388+00:00",
+"last_run": "2026-11-27T02:56:33.982537+00:00",
 "rules_version": 4,
 "sources": {
 "https://akijresource.com/job-openings": {
@@ -1896,7 +1896,7 @@
 "alerted": false,
 "baselined": true,
 "count": 0,
-"fails": 1,
+"fails": 2,
 "last_ok": "2026-11-26",
 "no_vacancy": false,
 "org": "IDLC Finance",
@@ -2126,11 +2126,11 @@
 "alerted": false,
 "baselined": true,
 "count": 0,
-"fails": 1,
-"last_ok": "2026-11-26",
+"fails": 0,
+"last_ok": "2026-11-27",
 "no_vacancy": false,
 "org": "Nascenia",
-"state": "bot_check",
+"state": "ok",
 "zero_runs": 0
 },
 "https://ollyo.com/careers/": {
@@ -2224,7 +2224,7 @@
 "alerted": false,
 "baselined": false,
 "count": 0,
-"fails": 2,
+"fails": 3,
 "org": "Skill Jobs",
 "state": "blocked",
 "zero_runs": 0
@@ -2398,7 +2398,7 @@
 "alerted": false,
 "baselined": false,
 "count": 0,
-"fails": 2,
+"fails": 3,
 "org": "City Bank",
 "state": "bot_check",
 "zero_runs": 0
@@ -2539,7 +2539,7 @@
 "alerted": false,
 "baselined": false,
 "count": 0,
-"fails": 2,
+"fails": 3,
 "org": "Runner Group",
 "state": "bot_check",
 "zero_runs": 0
@@ -2613,7 +2613,7 @@
 "alerted": false,
 "baselined": true,
 "count": 7,
-"fails": 1,
+"fails": 2,
 "last_ok": "2026-11-26",
 "no_vacancy": false,
 "org": "Uttara Bank",
