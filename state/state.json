@@ -1,11 +1,28 @@
 {
 "board_messages": [
-11,
-12,
-13,
-14
+15,
+16,
+17,
+18
 ],
 "items": {
+"001d6b877c1d827ed565": {
+"baseline": false,
+"category": "Business",
+"deadline": null,
+"detail_checked": 2,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Riseup Labs",
+"page": "https://riseuplabs.com/jobs/",
+"reminded": [],
+"title": "Sales Assistant",
+"url": "https://riseuplabs.com/jobs/sales-assistant/"
+},
 "0128cd870b58e2352d4c": {
 "baseline": true,
 "category": "Career page update",
@@ -138,6 +155,39 @@
 "title": "Job Vacancies",
 "url": "https://partexstargroup.com/career/job-vacancies/"
 },
+"075492d0f089f6f1bdf7": {
+"baseline": false,
+"category": "Business",
+"deadline": null,
+"detail_checked": 2,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Riseup Labs",
+"page": "https://riseuplabs.com/jobs/",
+"reminded": [],
+"title": "Business Development Specialist",
+"url": "https://riseuplabs.com/jobs/business-development-specialist/"
+},
+"092483f35a8027bba019": {
+"baseline": true,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Runner Group",
+"page": "https://www.runnerbd.com/runner-group/career.php",
+"reminded": [],
+"title": "08. Job Title: Executive/Senior Executive- ATL/ BTL MKT",
+"url": "https://www.runnerbd.com/runner-group/career.php"
+},
 "096df1c935d21b6c8767": {
 "baseline": true,
 "category": "Career page update",
@@ -193,7 +243,7 @@
 "detail_checked": 2,
 "digested": true,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26",
+"last_seen": "2026-11-27",
 "latest_date": null,
 "level": "strong",
 "notified": true,
@@ -570,7 +620,7 @@
 "detail_checked": 2,
 "digested": true,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26",
+"last_seen": "2026-11-27",
 "latest_date": null,
 "level": "strong",
 "notified": true,
@@ -677,6 +727,22 @@
 "reminded": [],
 "title": "Career Opportunities",
 "url": "https://www.divineit.net/about/careers/"
+},
+"42b58e60fd366306e76a": {
+"baseline": false,
+"category": "Tech",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Enosis Solutions",
+"page": "https://careers.enosisbd.com/",
+"reminded": [],
+"title": "Senior DevOps Engineer",
+"url": "https://careers.enosisbd.com/en/postings/df096503-c907-4adf-a891-500940d3b2a9"
 },
 "45a61c0f2e1f19d38d68": {
 "baseline": true,
@@ -823,6 +889,38 @@
 "title": "Internship, Marketing",
 "url": "https://www.daraz.com.bd/careers"
 },
+"54210c0afa3444b04127": {
+"baseline": true,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Runner Group",
+"page": "https://www.runnerbd.com/runner-group/career.php",
+"reminded": [],
+"title": "05. Job Title: Executive/Senior Executive- MIS MKT",
+"url": "https://www.runnerbd.com/runner-group/career.php"
+},
+"573beefdff235c910297": {
+"baseline": true,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Runner Group",
+"page": "https://www.runnerbd.com/runner-group/career.php",
+"reminded": [],
+"title": "01. Job Title: Executive / Sr. Executive - Sales (Two-Wheeler)",
+"url": "https://www.runnerbd.com/runner-group/career.php"
+},
 "574591b47c6dab4d0cfc": {
 "baseline": true,
 "category": "Career page update",
@@ -954,6 +1052,22 @@
 "title": "Senior Executive - ICRR Bengaluru, Karnataka",
 "url": "https://careers.unilever.com/en/job/bengaluru/senior-executive-icrr/34155/102516970864"
 },
+"757ac2743a6750d8fcfd": {
+"baseline": true,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Runner Group",
+"page": "https://www.runnerbd.com/runner-group/career.php",
+"reminded": [],
+"title": "06. Job Title: Asst Manager/ Sr. Executive- Dent & paint",
+"url": "https://www.runnerbd.com/runner-group/career.php"
+},
 "770d63ff8abd5a40663a": {
 "baseline": true,
 "category": "Career page update",
@@ -985,6 +1099,23 @@
 "reminded": [],
 "title": "Assistant Manager",
 "url": "https://ipdc.com/career"
+},
+"797aec9e75ac7f0da07c": {
+"baseline": false,
+"category": "Business",
+"deadline": null,
+"detail_checked": 2,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Unilever",
+"page": "https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2",
+"reminded": [],
+"title": "Custom Tariff Specialist Katowice, Silesia",
+"url": "https://careers.unilever.com/en/job/katowice/custom-tariff-specialist/34155/103687655344"
 },
 "7b6a880b5a3b0de8a902": {
 "baseline": false,
@@ -1018,6 +1149,39 @@
 "reminded": [],
 "title": "Software Engineer, Backend",
 "url": "https://shikho.freshteam.com/jobs"
+},
+"7d98f7686e32b7d66f70": {
+"baseline": true,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Runner Group",
+"page": "https://www.runnerbd.com/runner-group/career.php",
+"reminded": [],
+"title": "07. Job Title: Asst Manager/ Sr. Executive- Warranty",
+"url": "https://www.runnerbd.com/runner-group/career.php"
+},
+"7e76083d13aa30d257ad": {
+"baseline": false,
+"category": "Business",
+"deadline": null,
+"detail_checked": 2,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Unilever",
+"page": "https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2",
+"reminded": [],
+"title": "Key Account Executive - Sabah Kuala Lumpur, Kuala Lumpur",
+"url": "https://careers.unilever.com/en/job/kuala-lumpur/key-account-executive-sabah/34155/103855296016"
 },
 "7eeb00ebfce389a97421": {
 "baseline": true,
@@ -1171,7 +1335,7 @@
 "detail_checked": 2,
 "digested": true,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26",
+"last_seen": "2026-11-27",
 "latest_date": null,
 "level": "strong",
 "notified": true,
@@ -1188,7 +1352,7 @@
 "detail_checked": 2,
 "digested": true,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26",
+"last_seen": "2026-11-27",
 "latest_date": null,
 "level": "strong",
 "notified": true,
@@ -1312,6 +1476,22 @@
 "title": "Sr. Frontend Developer (React JS)",
 "url": "https://www.bdtask.com/career.php"
 },
+"aa7eee208084c0f2327b": {
+"baseline": true,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Runner Group",
+"page": "https://www.runnerbd.com/runner-group/career.php",
+"reminded": [],
+"title": "03. Job Title: Executive / Sr. Executive – Zonal Sales (Lubricants)",
+"url": "https://www.runnerbd.com/runner-group/career.php"
+},
 "aac20869be921f590997": {
 "baseline": true,
 "category": "Career page update",
@@ -1400,7 +1580,7 @@
 "detail_checked": 2,
 "digested": true,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26",
+"last_seen": "2026-11-27",
 "latest_date": null,
 "level": "strong",
 "notified": true,
@@ -1425,6 +1605,22 @@
 "reminded": [],
 "title": "Senior Business Analyst",
 "url": "https://technonext.com/career"
+},
+"b633d4ee2e30f8a7d0de": {
+"baseline": false,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Riseup Labs",
+"page": "https://riseuplabs.com/jobs/",
+"reminded": [],
+"title": "14 Open Positions",
+"url": "https://riseuplabs.com/jobs/"
 },
 "b897c4886dc31ca62c60": {
 "baseline": true,
@@ -1574,6 +1770,22 @@
 "title": "Let’s recruit together and find your next colleague.",
 "url": "https://careers.craftsmensoftware.com/"
 },
+"cd98bfe2d3c0f6e7f83c": {
+"baseline": true,
+"category": "Career page update",
+"deadline": null,
+"digested": true,
+"first_seen": "2026-11-27",
+"last_seen": "2026-11-27",
+"latest_date": null,
+"level": "strong",
+"notified": true,
+"org": "Runner Group",
+"page": "https://www.runnerbd.com/runner-group/career.php",
+"reminded": [],
+"title": "04. Job Title: Sr. Executive / Asst. Manager - Corporate Sales (Lubricants)",
+"url": "https://www.runnerbd.com/runner-group/career.php"
+},
 "d2739d74896a857fa179": {
 "baseline": true,
 "category": "Business",
@@ -1581,7 +1793,7 @@
 "detail_checked": 2,
 "digested": true,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26",
+"last_seen": "2026-11-27",
 "latest_date": null,
 "level": "strong",
 "notified": true,
@@ -1811,7 +2023,7 @@
 "detail_checked": 2,
 "digested": true,
 "first_seen": "2026-11-26",
-"last_seen": "2026-11-26",
+"last_seen": "2026-11-27",
 "latest_date": null,
 "level": "strong",
 "notified": true,
@@ -1857,7 +2069,7 @@
 },
 "last_digest": null,
 "last_manual": null,
-"last_run": "2026-11-27T02:56:33.982537+00:00",
+"last_run": "2026-11-27T12:44:52.914670+00:00",
 "rules_version": 4,
 "sources": {
 "https://akijresource.com/job-openings": {
@@ -1896,11 +2108,11 @@
 "alerted": false,
 "baselined": true,
 "count": 0,
-"fails": 2,
-"last_ok": "2026-11-26",
+"fails": 0,
+"last_ok": "2026-11-27",
 "no_vacancy": false,
 "org": "IDLC Finance",
-"state": "timeout",
+"state": "ok",
 "zero_runs": 0
 },
 "https://apsissolutions.com/career/": {
@@ -1994,7 +2206,7 @@
 "https://careers.enosisbd.com/": {
 "alerted": false,
 "baselined": true,
-"count": 0,
+"count": 1,
 "fails": 0,
 "last_ok": "2026-11-27",
 "no_vacancy": false,
@@ -2016,7 +2228,7 @@
 "https://careers.unilever.com/en/location/bangladesh-jobs/34155/1210997/2": {
 "alerted": false,
 "baselined": true,
-"count": 1,
+"count": 2,
 "fails": 0,
 "last_ok": "2026-11-27",
 "no_vacancy": false,
@@ -2180,7 +2392,7 @@
 "https://riseuplabs.com/jobs/": {
 "alerted": false,
 "baselined": true,
-"count": 10,
+"count": 12,
 "fails": 0,
 "last_ok": "2026-11-27",
 "no_vacancy": false,
@@ -2224,7 +2436,7 @@
 "alerted": false,
 "baselined": false,
 "count": 0,
-"fails": 3,
+"fails": 4,
 "org": "Skill Jobs",
 "state": "blocked",
 "zero_runs": 0
@@ -2396,11 +2608,13 @@
 },
 "https://www.citybankplc.com/p/careers": {
 "alerted": false,
-"baselined": false,
+"baselined": true,
 "count": 0,
-"fails": 3,
+"fails": 0,
+"last_ok": "2026-11-27",
+"no_vacancy": false,
 "org": "City Bank",
-"state": "bot_check",
+"state": "ok",
 "zero_runs": 0
 },
 "https://www.communitybankbd.com/career/": {
@@ -2537,11 +2751,13 @@
 },
 "https://www.runnerbd.com/runner-group/career.php": {
 "alerted": false,
-"baselined": false,
-"count": 0,
-"fails": 3,
+"baselined": true,
+"count": 7,
+"fails": 0,
+"last_ok": "2026-11-27",
+"no_vacancy": false,
 "org": "Runner Group",
-"state": "bot_check",
+"state": "ok",
 "zero_runs": 0
 },
 "https://www.rupalibank.com.bd/notice_jquery.php?type=20": {
@@ -2613,11 +2829,11 @@
 "alerted": false,
 "baselined": true,
 "count": 7,
-"fails": 2,
-"last_ok": "2026-11-26",
+"fails": 0,
+"last_ok": "2026-11-27",
 "no_vacancy": false,
 "org": "Uttara Bank",
-"state": "blocked",
+"state": "ok",
 "zero_runs": 0
 },
 "https://www.wedevs.com/career/": {
